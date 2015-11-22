@@ -9,6 +9,6 @@
     </div>
 
   </footer>
-
+<?php echo panelBar::show() ?>
 </body>
 </html>
