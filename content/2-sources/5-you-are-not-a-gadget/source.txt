@@ -1,0 +1,1530 @@
+Autoid: 0d3f47ee91520e8271891c4983e465b3
+
+----
+
+Title: You Are Not a Gadget
+
+----
+
+Highlights: 
+
+- 
+  content: >
+    We tinker with your philosophy by direct
+    manipulation of your cognitive
+    experience, not indirectly, through
+    argument. It takes only a tiny group of
+    engineers to create technology that can
+    shape the entire future of human
+    experience with incredible speed."
+  comment: >
+    The power of technology/design vs.
+    rhetoric.
+  location: "214"
+- 
+  content: ""
+  comment: |
+    Interesting that Lanier is against anonymity. Define danger? Though he's "pro-human" mot "anti-technology" this seems to be ignoring an aspect of technology that *could* have potential.
+  location: "488"
+- 
+  content: >
+    be a person instead of a source of
+    fragments to be exploited by others."
+  comment: ""
+  location: "500"
+- 
+  content: >
+    A design that shares Twitter’s feature
+    of providing ambient continuous contact
+    between people could perhaps drop
+    Twitter’s adoration of fragments. We
+    don’t really know, because it is an
+    unexplored design space."
+  comment: ""
+  location: "501"
+- 
+  content: ""
+  comment: >
+    Assumes (rightfully so?) that technology
+    is sloppily designed. Reminds me of
+    napkin sketch appearing unfinished so
+    people respond accordingly. much tech
+    appears slick and finished. Highly
+    conceived.
+  location: "509"
+- 
+  content: >
+    Digital network architectures naturally
+    incubate monopolies."
+  comment: ""
+  location: "544"
+- 
+  content: >
+    Real people must have left all those
+    anonymous comments on blogs and video
+    clips, but who knows where they are now,
+    or if they are dead? The digital hive is
+    growing at the expense of
+    individuality."
+  comment: ""
+  location: "589"
+- 
+  content: 'Antihuman rhetoric is fascinating in the same way that self-destruction is fascinating: it offends us, but we cannot look away."'
+  comment: ""
+  location: "594"
+- 
+  content: >
+    bits don’t mean anything without a
+    cultured person to interpret them. This
+    is not solipsism. You can believe that
+    your mind makes up the world, but a
+    bullet will still kill you. A virtual
+    bullet, however, doesn’t even exist
+    unless there is a person to recognize it
+    as a representation of a bullet. Guns
+    are real in a way that computers are
+    not."
+  comment: ""
+  location: "598"
+- 
+  content: ""
+  comment: "I can understand Lanier's argument about humans paying humans for information they produce, but this seems like attacking a misreading/straw man. It's obviously not the information that wants to be free, it's cheapo humans who want access to information without spending money. I don't think theft or ownership is implied either, just access. Like a virtual lending library."
+  location: "643"
+- 
+  content: >
+    The common use of computers, as we
+    understand them today, as sources for
+    models and metaphors of ourselves is
+    probably about as reliable as the use of
+    the steam engine was back then."
+  comment: ""
+  location: "665"
+- 
+  content: ""
+  comment: >
+    Had no idea. Interesting
+    motives/backstories behind inventions.
+  location: "675"
+- 
+  content: >
+    Turing imagined a pristine, crystalline
+    form of existence in the digital realm,
+    and I can imagine it might have been a
+    comfort to imagine a form of life apart
+    from the torments of the body and the
+    politics of sexuality."
+  comment: ""
+  location: "678"
+- 
+  content: >
+    the Turing test cuts both ways. You
+    can’t tell if a machine has gotten
+    smarter or if you’ve just lowered your
+    own standards of intelligence to such a
+    degree that the machine seems smart. If
+    you can have a conversation with a
+    simulated person presented by an AI
+    program, can you tell how far you’ve
+    let your sense of personhood degrade in
+    order to make the illusion work for
+    you?"
+  comment: ""
+  location: "692"
+- 
+  content: >
+    Wikipedia, for instance, works on what I
+    call the Oracle illusion, in which
+    knowledge of the human authorship of a
+    text is suppressed in order to give the
+    text superhuman validity. Traditional
+    holy books work in precisely the same
+    way and present many of the same
+    problems."
+  comment: ""
+  location: "705"
+- 
+  content: ""
+  comment: >
+    Awesome. Love people who get away with
+    such colloquial writing styles. Makes
+    sense in this case.
+  location: "710"
+- 
+  content: ""
+  comment: "In this way code is poetry. Reminds me of Turchi's ideas about the aspects of life that novels leave out."
+  location: "752"
+- 
+  content: 'the idea of AI has shifted the psychological projection of adorable qualities from computer programs alone to a different target: computer-plus-crowd constructions."'
+  comment: ""
+  location: "762"
+- 
+  content: ""
+  comment: Good sentence.
+  location: "771"
+- 
+  content: ""
+  comment: >
+    Expand and contract is too vague to be
+    fair.
+  location: "790"
+- 
+  content: ""
+  comment: LOL
+  location: "808"
+- 
+  content: >
+    We all have to live with our imperfect
+    ability to discern the proper boundaries
+    of our circles of empathy. There will
+    always be cases where reasonable people
+    will disagree."
+  comment: ""
+  location: "813"
+- 
+  content: >
+    we’ll ruin personal freedom by
+    enforcing metaphysical ideas on one
+    another."
+  comment: ""
+  location: "833"
+- 
+  content: ""
+  comment: Not sure I get these.
+  location: "839"
+- 
+  content: >
+    There’s a way that consciousness and
+    time are bound together. If you try to
+    remove any potential hint of
+    mysteriousness from consciousness, you
+    end up mystifying time in an absurd
+    way."
+  comment: ""
+  location: "888"
+- 
+  content: >
+    there is more than one possible
+    technological future, and the debate
+    should be about how to best identify and
+    act on whatever freedoms of choice we
+    still have, not about who’s the
+    Luddite."
+  comment: ""
+  location: "952"
+- 
+  content: >
+    printing presses in themselves provide
+    no guarantee of an enlightened outcome.
+    People, not machines, made the
+    Renaissance. The printing that takes
+    place in North Korea today, for
+    instance, is nothing more than
+    propaganda for a personality cult. What
+    is important about printing presses is
+    not the mechanism, but the authors."
+  comment: ""
+  location: "957"
+- 
+  content: >
+    It is true that by using these tools,
+    individuals can author books or blogs or
+    whatever, but people are encouraged by
+    the economics of free content, crowd
+    dynamics, and lord aggregators to serve
+    up fragments instead of considered whole
+    expressions or arguments. The efforts of
+    authors are appreciated in a manner that
+    erases the boundaries between them."
+  comment: ""
+  location: "977"
+- 
+  content: >
+    MySpace preserved some of that flavor,
+    though a process of regularized
+    formatting had begun. Facebook went
+    further, organizing people into
+    multiple-choice identities, while
+    Wikipedia seeks to erase point of view
+    entirely. If a church or government were
+    doing these things, it would feel
+    authoritarian, but when technologists
+    are the culprits, we seem hip, fresh,
+    and inventive. People will accept ideas
+    presented in technological form that
+    would be abhorrent in any other form."
+  comment: ""
+  location: "997"
+- 
+  content: ""
+  comment: >
+    Reminiscent of Berts and Ernies. Silly
+    sounding new words for things.
+  location: "1005"
+- 
+  content: ""
+  comment: "Can this same argument be applied to history? Jenkins says we need to be skeptical of history and not take it as disembodied fact. Similar stance to Lanier's."
+  location: "1008"
+- 
+  content: ""
+  comment: >
+    Direct counterpoint would be Clay
+    Shirky, Ontology is Dead
+  location: "1012"
+- 
+  content: ""
+  comment: "Sensing a straw man again. Wikipedia and Einstein's theories are not the same thing. Obviously Einstein is more important than Wikipedia, but they are both valuable in different ways. Is Lanier trying to say Wikipedia eliminates the possibility for Einsteins?"
+  location: "1025"
+- 
+  content: >
+    The mere possibility of there being
+    something ineffable about personhood is
+    what drives many technologists to reject
+    the notion of quality. They want to live
+    in an airtight reality that resembles an
+    idealized computer program, in which
+    everything is understood and there are
+    no fundamental mysteries. They recoil
+    from even the hint of a potential zone
+    of mystery or an unresolved seam in
+    one’s worldview."
+  comment: ""
+  location: "1031"
+- 
+  content: >
+    it seems pointless to insist that what
+    we already understand must suffice to
+    explain what we don’t understand. What
+    I’m struck by is the lack of
+    intellectual modesty in the computer
+    science community. We are happy to
+    enshrine into engineering designs mere
+    hypotheses—and vague ones at
+    that—about the hardest and most
+    profound questions faced by science, as
+    if we already possess perfect
+    knowledge."
+  comment: ""
+  location: "1047"
+- 
+  content: >
+    the benefits of semiautomated
+    self-presentation are illusory. If you
+    start out by being fake, you’ll
+    eventually have to put in twice the
+    effort to undo the illusion if anything
+    good is to come of it."
+  comment: ""
+  location: "1077"
+- 
+  content: >
+    Enlightened designers leave open the
+    possibility of either metaphysical
+    specialness in humans or in the
+    potential for unforeseen creative
+    processes that aren’t explained by
+    ideas like evolution that we already
+    believe we can capture in software
+    systems. That kind of modesty is the
+    signature quality of being
+    human-centered."
+  comment: ""
+  location: "1080"
+- 
+  content: ""
+  comment: |
+    Nobody takes Facebook as fact. You talk to your friends to see what the story is. It's even called something different, "Facebook Official," indicating that it is information to be disseminated. I can see why the reduction is harmful in a way but is it really as serious as Lanier thinks?
+  location: "1088"
+- 
+  content: >
+    A real friendship ought to introduce
+    each person to unexpected weirdness in
+    the other."
+  comment: ""
+  location: "1090"
+- 
+  content: ""
+  comment: >
+    Danger of not having new words for
+    things.
+  location: "1099"
+- 
+  content: >
+    the whole idea of fake friendship, is
+    just bait laid by the lords of the
+    clouds to lure hypothetical
+    advertisers—we might call them
+    messianic advertisers—who could
+    someday show up."
+  comment: ""
+  location: "1102"
+- 
+  content: >
+    If the revenue never appears, then a
+    weird imposition of a
+    database-as-reality ideology will have
+    colored generations of teen peer group
+    and romantic experiences for no business
+    or other purpose."
+  comment: ""
+  location: "1111"
+- 
+  content: ""
+  comment: Good writer, look this up to read.
+  location: "1127"
+- 
+  content: >
+    The tenure system and many other aspects
+    of the academy are designed to support
+    the idea that individual scholars
+    matter, not just the process or the
+    collective."
+  comment: ""
+  location: "1160"
+- 
+  content: ""
+  comment: >
+    Deliberate slowness. Bureaucracy is slow
+    by design? Wonder what Ani/Expert Labsl
+    would have to say about legal wikis.
+    They are building tech tools for gov,
+    interesting space to watch.
+  location: "1176"
+- 
+  content: ""
+  comment: Good word.
+  location: "1177"
+- 
+  content: >
+    The “wisdom of crowds” effect should
+    be thought of as a tool. The value of a
+    tool is its usefulness in accomplishing
+    a task. The point should never be the
+    glorification of the tool."
+  comment: ""
+  location: "1195"
+- 
+  content: ""
+  comment: >
+    Reducing crowd wisdom to basically
+    polling.
+  location: "1206"
+- 
+  content: ""
+  comment: Interesting way to say blind faith.
+  location: "1209"
+- 
+  content: >
+    There is never a lesson learned, or a
+    catharsis of victory or defeat. If you
+    win anonymously, no one knows, and if
+    you lose, you just change your pseudonym
+    and start over, without having modified
+    your point of view one bit."
+  comment: Online vs. real fights.
+  location: "1221"
+- 
+  content: >
+    Korea has one of the most intense online
+    cultures in the world, so it has also
+    suffered some of the most extreme
+    trolling. Korean movie star Choi
+    Jin-sil, sometimes described as the
+    “Nation’s Actress,” committed
+    suicide in 2008 after being hounded
+    online by trolls, but she was only the
+    most famous of a series of similar
+    suicides."
+  comment: ""
+  location: "1225"
+- 
+  content: >
+    I don’t think I’m necessarily any
+    better, or more moral, than the people
+    who tend the lulzy websites. What I’m
+    saying, though, is that the user
+    interface designs that arise from the
+    ideology of the computing cloud make
+    people—all of us—less kind. Trolling
+    is not a string of isolated incidents,
+    but the status quo in the online world."
+  comment: "Perhaps it *is* due to the interface conventions (signifiers or affordances, in Norman's terms e.g. easy anonymity) but I also found it interesting that Alex Wright chalked bad behavior up to a kind of hysteria like when printed texts began to spread, though that explanation of people ripping each others hearts out because of BOOKS is a lot harder to buy into. like in Objectified when they talk about the decoupling of form and function: a black rectangle with an abstract concept called the Internet on it, the malleability and abstraction of software provides challenges in communicating function (a reason for skeuomorphism) AND a tremendous responsibility because you have no physical constraints on what can be built. Designers of software must be masters of restraint."
+  location: "1243"
+- 
+  content: >
+    We evolved to be both loners and pack
+    members. We are optimized not so much to
+    be one or the other, but to be able to
+    switch between them."
+  comment: ""
+  location: "1252"
+- 
+  content: >
+    The genetic aspects of behavior that
+    have received the most attention (under
+    rubrics like sociobiology or
+    evolutionary psychology) have tended to
+    focus on things like gender differences
+    and mating behaviors, but my guess is
+    that clan orientation and its
+    relationship to violence will turn out
+    to be the most important area of study."
+  comment: ""
+  location: "1259"
+- 
+  content: >
+    Anonymity certainly has a place, but
+    that place needs to be designed
+    carefully. Voting and peer review are
+    preinternet examples of beneficial
+    anonymity. Sometimes it is desirable for
+    people to be free of fear of reprisal or
+    stigma in order to invoke honest
+    opinions."
+  comment: ""
+  location: "1277"
+- 
+  content: >
+    These media certainly have contributed
+    to the current wave of violent
+    radicalism. In all these cases, there
+    was an intent to propagandize, but
+    intent isn’t everything."
+  comment: ""
+  location: "1292"
+- 
+  content: >
+    The ideology of violation does not
+    radiate from the lowest depths of
+    trolldom, but from the highest heights
+    of academia. There are respectable
+    academic conferences devoted to methods
+    of violating sanctities of all kinds."
+  comment: "Haven't art and academia been this way for a long time? Definitely art. Interesting though because the Internet touches everyone in a way that art and academia do not. Important for me to remember there is life outside the ivory tower. Lanier is good at that."
+  location: "1306"
+- 
+  content: >
+    The reason I call this an expression of
+    ideology is that there is a strenuously
+    constructed lattice of arguments that
+    decorate this murderous behavior so that
+    it looks grand and new. If the same
+    researchers had done something similar
+    without digital technology, they would
+    at the very least have lost their jobs.
+    Suppose they had spent a couple of years
+    and significant funds figuring out how
+    to rig a washing machine to poison
+    clothing in order to (hypothetically)
+    kill a child once dressed. Or what if
+    they had devoted a lab in an elite
+    university to finding a new way to
+    imperceptibly tamper with skis to cause
+    fatal accidents on the slopes? These are
+    certainly doable projects, but because
+    they are not digital, they don’t
+    support an illusion of ethics."
+  comment: |
+    Paints important art and academia as safe havens for murderers. Lanier is not one for transgression. I get that we must shape technology to human needs but should we just not go into the dark parts? Seems flawed. Then again, I remember Harun Farocki's film that concentration camps are proof that humans can do anything they want to other human beings. What are edgy artists/scientists/technologists trying to prove?Is it bad that my first thought is "that would be a good piece"? Love his definition of an ideology. Worth doing a cross-examination of art and ideology.
+  location: "1314"
+- 
+  content: >
+    Another predictable element of the
+    ideology of violation is that anyone who
+    complains about the rituals of the elite
+    violators will be accused of spreading
+    FUD—fear, uncertainty, and doubt. But
+    actually it’s the ideologues who seek
+    publicity. The whole point of
+    publicizing exploits like the attack on
+    pacemakers is the glory. If that
+    notoriety isn’t based on spreading
+    FUD, what is?"
+  comment: ""
+  location: "1351"
+- 
+  content: >
+    It used to be that government was famous
+    for being impersonal, but in a
+    postpersonal world, that will no longer
+    be a distinction."
+  comment: ""
+  location: "1382"
+- 
+  content: >
+    Information systems need to have
+    information in order to run, but
+    information underrepresents reality.
+    Demand more from information than it can
+    give, and you end up with monstrous
+    designs."
+  comment: ""
+  location: "1386"
+- 
+  content: >
+    What computerized analysis of all the
+    country’s school tests has done to
+    education is exactly what Facebook has
+    done to friendships. In both cases, life
+    is turned into a database. Both
+    degradations are based on the same
+    philosophical mistake, which is the
+    belief that computers can presently
+    represent human thought or human
+    relationships. These are things
+    computers cannot currently do."
+  comment: ""
+  location: "1390"
+- 
+  content: >
+    on a typical social networking site,
+    either you are designated to be in a
+    couple or you are single (or you are in
+    one of a few other predetermined states
+    of being)—and that reduction of life
+    is what gets broadcast between friends
+    all the time. What is communicated
+    between people eventually becomes their
+    truth. Relationships take on the
+    troubles of software engineering."
+  comment: ""
+  location: "1424"
+- 
+  content: forum"
+  comment: ""
+  location: "1438"
+- 
+  content: >
+    it’s not as if the forum would really
+    get much better if the software
+    improved. Focusing too much on the
+    software might even make things worse by
+    shifting the focus from the people."
+  comment: Interesting danger of overdesign.
+  location: "1449"
+- 
+  content: >
+    There is huge room for improvement in
+    digital technologies overall. I would
+    love to have telepresence sessions with
+    distant oudists, for instance. But once
+    you have the basics of a given
+    technological leap in place, it’s
+    always important to step back and focus
+    on the people for a while."
+  comment: >
+    He seems to be focused on a basic old
+    school sped up kind of letter writing
+    that is the forum/mailing list as the
+    most technology you need. Against
+    rigidity of designed web. Interesting.
+  location: "1451"
+- 
+  content: >
+    People will focus on activities other
+    than fighting and killing one another
+    only so long as technologists continue
+    to come up with ways to improve living
+    standards for everyone at once. That
+    isn’t to say that technological
+    progress guarantees moral progress."
+  comment: ""
+  location: "1544"
+- 
+  content: >
+    none of us was ever able to give the
+    dinosaurs any constructive advice about
+    how to survive. And we miss them now
+    more than we have been willing to
+    admit."
+  comment: ""
+  location: "1622"
+- 
+  content: >
+    We forget what a wonder, what a breath
+    of fresh air it has been to have
+    creative people make their way in the
+    world of commerce instead of patronage.
+    Patrons gave us Bach and Michelangelo,
+    but it’s unlikely patrons would have
+    given us Vladimir Nabokov, the Beatles,
+    or Stanley Kubrick."
+  comment: ""
+  location: "1655"
+- 
+  content: ""
+  comment: >
+    Still not totally clear what exactly
+    this is. Wikipedia? Creative commons?
+  location: "1678"
+- 
+  content: >
+    Unless artists become a large aggregator
+    of other artists’ works, the long tail
+    offers no path out of the quiet doldrums
+    of minuscule sales."
+  comment: LOL
+  location: "1687"
+- 
+  content: >
+    These are both crucial contributors to
+    culture and democracy. Each pays painful
+    dues and devotes years to honing a
+    craft."
+  comment: ""
+  location: "1761"
+- 
+  content: >
+    This is a scenario I call “Planet of
+    the Help Desks.” This brings us to
+    India. India’s economy has been
+    soaring at the same time as China’s,
+    much to the amazement of observers
+    everywhere, but on a model that is
+    significantly different from China’s.
+    As Esther Dyson has pointed out, the
+    Indian economy excels in
+    “nonroutine” services."
+  comment: ""
+  location: "1794"
+- 
+  content: 'No one in the pre–digital cloud era had the mental capacity to lie to him- or herself in the way we routinely are able to now. The limitations of organic human memory and calculation used to put a cap on the intricacies of self-delusion."'
+  comment: ""
+  location: "1826"
+- 
+  content: >
+    You can certainly win at gambling with
+    high-tech help, but to do so you must
+    supercede the game you are pretending to
+    play."
+  comment: ""
+  location: "1829"
+- 
+  content: >
+    There are so many layers of abstraction
+    between the new kind of elite investor
+    and actual events on the ground that the
+    investor no longer has any concept of
+    what is actually being done as a result
+    of investments."
+  comment: ""
+  location: "1836"
+- 
+  content: >
+    this is a very different idea from the
+    long tail, because it rewards
+    individuals instead of cloud owners."
+  comment: ""
+  location: "1898"
+- 
+  content: >
+    Instead of collections of bits being
+    offered as a product, they would be
+    rendered as a service."
+  comment: ""
+  location: "1935"
+- 
+  content: >
+    Will living space become something doled
+    out by the hive? (Would you do it with
+    Wikipedia-style edit wars or Digg-style
+    voting? Or would living space only be
+    inherited, so that your station in life
+    was predetermined? Or would it be
+    allocated at random, reducing the status
+    of free will?)"
+  comment: >
+    Lanier is looking so far into the future
+    that it is crazy. Who knows what will
+    be? But at least he is a hilarious and
+    inflamatory writer.
+  location: "1962"
+- 
+  content: >
+    Perceptions of fairness and social norms
+    can support or undermine any economic
+    idea."
+  comment: ""
+  location: "1977"
+- 
+  content: >
+    The transition would not have to be
+    simultaneous and universal, even though
+    the ultimate goal would be to achieve
+    universality."
+  comment: >
+    Who is being idealistic now?
+    Universality never seems like a good
+    ideal to me.
+  location: "2002"
+- 
+  content: >
+    It’s easy to break into physical cars
+    and houses, for instance, and yet few
+    people do so. Locks are only amulets of
+    inconvenience that remind us of a social
+    contract we ultimately benefit from. It
+    is only human choice that makes the
+    human world function. Technology can
+    motivate human choice, but not replace
+    it."
+  comment: ""
+  location: "2019"
+- 
+  content: >
+    We are bathed in what can be called
+    love. And yet that love shows itself
+    best through the constraints of
+    civilization, because those constraints
+    compensate for the flaws of human
+    nature. We must see ourselves honestly,
+    and engage ourselves realistically, in
+    order to become better."
+  comment: ""
+  location: "2023"
+- 
+  content: >
+    Car accidents kill more people than
+    wars, and yet we love cars. Capitalism
+    is like that. It gives us the buzz of
+    freedom. We adore it even though it has
+    crashed on occasion. We always pretend
+    it will be the other person who is
+    hurt."
+  comment: ""
+  location: "2111"
+- 
+  content: >
+    Engineers sometimes take on the
+    inherently absurd task of making a
+    deliberately imperfect technology
+    slightly less imperfect. For example,
+    cars are usually designed to reach
+    ridiculous, illegal speeds, because that
+    makes us feel free—and in addition,
+    they come with air bags. This is the
+    absurdity of engineering for the real
+    world."
+  comment: ""
+  location: "2115"
+- 
+  content: >
+    The economy is a tool, and there’s no
+    reason it has to be as open and wild as
+    the many open and wild things of our
+    experience. But it also doesn’t have
+    to be as tied down as some might want.
+    It can and should have an intermediate
+    level of complexity."
+  comment: ""
+  location: "2139"
+- 
+  content: >
+    This is an extremely ambitious vision,
+    because, among other things, it involves
+    the representation of ideas that are
+    usually expressed in natural language
+    (in contracts), and because, at the
+    cloud level, it must reconcile multiple
+    contracts that may often be
+    underspecified and reveal ambiguities
+    and/or contradictions in an emerging
+    system of expressions. But while these
+    problems will be a headache for software
+    developers, they might also ultimately
+    force financiers to become better at
+    describing what they do. They aren’t
+    artists who should be allowed to make
+    ambiguous, impossible-to-parse
+    creations. The need to interoperate more
+    tightly with the “dumbness” of
+    software could help them undertake their
+    work more clearly and safely."
+  comment: ""
+  location: "2185"
+- 
+  content: >
+    cybernetic totalism will ultimately be
+    bad for spirituality, morality, and
+    business."
+  comment: ""
+  location: "2199"
+- 
+  content: >
+    Ideal computers can be experienced when
+    you write a small program. They seem to
+    offer infinite possibilities and an
+    extraordinary sense of freedom. Real
+    computers are experienced when we deal
+    with large programs. They can trap us in
+    tangles of code and make us slaves to
+    legacy—and not just in matters of
+    obscure technological decisions. Real
+    computers reify our philosophies through
+    the process of lock-in before we are
+    ready."
+  comment: "Quashing semantic web fantasies? Isn't he a believer in Nelson's web??"
+  location: "2202"
+- 
+  content: >
+    The distinction between first-order
+    expression and derivative expression is
+    lost on true believers in the hive.
+    First-order expression is when someone
+    presents a whole, a work that integrates
+    its own worldview and aesthetic. It is
+    something genuinely new in the world.
+    Second-order expression is made of
+    fragmentary reactions to first-order
+    expression. A movie like Blade Runner is
+    first-order expression, as was the novel
+    that inspired it, but a mashup in which
+    a scene from the movie is accompanied by
+    the anonymous masher’s favorite song
+    is not in the same league."
+  comment: ""
+  location: "2237"
+- 
+  content: >
+    Parts of it can be destroyed without
+    destroying the whole, but that also
+    means that parts can be known without
+    knowing the whole."
+  comment: ""
+  location: "2263"
+- 
+  content: ""
+  comment: "Isn't the cloud just for stability, scalability, and speed at an effective cost?"
+  location: "2283"
+- 
+  content: >
+    I’m not anti–open source. I
+    frequently argue for it in various
+    specific projects. But the politically
+    correct dogma that holds that open
+    source is automatically the best path to
+    creativity and innovation is not borne
+    out by the facts."
+  comment: ""
+  location: "2319"
+- 
+  content: >
+    I entered the internet era with
+    extremely high expectations. I eagerly
+    anticipated a chance to experience shock
+    and intensity and new sensations, to be
+    thrust into lush aesthetic wildernesses,
+    and to wake up every morning to a world
+    that was richer in every detail because
+    my mind had been energized by
+    unforeseeable art."
+  comment: ""
+  location: "2330"
+- 
+  content: >
+    No longer tied to the king, the
+    whorehouse, the military parade, the
+    Church, the sidewalk busker’s cup, or
+    the other ancient and traditional
+    sources of musical patronage, musicians
+    had a chance to diversify, innovate, and
+    be entrepreneurial."
+  comment: ""
+  location: "2346"
+- 
+  content: >
+    We thought there would be an explosion
+    of wealth and of ways to become wealthy,
+    leading to super-Gershwins. A new
+    species of musician would be inspired to
+    suddenly create radically new kinds of
+    music to be performed in virtual worlds,
+    or in the margins of e-books, or to
+    accompany the oiling of fabricating
+    robots."
+  comment: Broken causality.
+  location: "2350"
+- 
+  content: >
+    At the time that the web was born, in
+    the early 1990s, a popular trope was
+    that a new generation of teenagers,
+    reared in the conservative Reagan years,
+    had turned out exceptionally bland. The
+    members of “Generation X” were
+    characterized as blank and inert. The
+    anthropologist Steve Barnett compared
+    them to pattern exhaustion, a phenomena
+    in which a culture runs out of
+    variations of traditional designs in
+    their pottery and becomes less
+    creative."
+  comment: Amazing/hilarious.
+  location: "2355"
+- 
+  content: 'Here is a claim I wish I weren’t making, and that I would prefer to be wrong about: popular music created in the industrialized world in the decade from the late 1990s to the late 2000s doesn’t have a distinct style—that is, one that would provide an identity for the young people who grew up with it."'
+  comment: "O NO HE DIDN'T"
+  location: "2362"
+- 
+  content: ""
+  comment: >
+    Still thinking that Lanier places too
+    much importance on the market and
+    causality on the shift from plush
+    social-contract record companies to
+    Internet distribution.
+  location: "2407"
+- 
+  content: >
+    It’s as if culture froze just before
+    it became digitally open, and all we can
+    do now is mine the past like salvagers
+    picking over a garbage dump."
+  comment: >
+    Like Aaron he wants to see leaps in
+    time.
+  location: "2412"
+- 
+  content: 'This is embarrassing. The whole point of connected media technologies was that we were supposed to come up with new, amazing cultural expression. No, more than that—we were supposed to invent better fundamental types of expression: not just movies, but interactive virtual worlds; not just games, but simulations with moral and aesthetic profundity."'
+  comment: "This is interesting. People often see computers (aka the cloud) as making books obsolete because we have one machine & network that appears to contain all the content of another medium. This unprecedented access has led to remix and mining of archives as a national past time. Lanier doesn't give enough credit to this (the meme?) as an Internet native form of expression (though I am also quick to criticize those who try to intellectualize memes—that is not the point) but he correctly (if somewhat confusedly and defensively) argues for people to creatively interrogate the possibilities of computers and network technologies: simulation, database. However he has strict morals."
+  location: "2413"
+- 
+  content: >
+    If the internet is really destined to be
+    no more than an ancillary medium, which
+    I would view as a profound defeat, then
+    it at least ought to do whatever it can
+    not to bite the hand that feeds
+    it—that is, it shouldn’t starve the
+    commercial media industries."
+  comment: ""
+  location: "2417"
+- 
+  content: >
+    Wright has articulated—not in words,
+    but through the creation of a gaming
+    experience—what it would be like to be
+    a god who, while not rethinking every
+    detail of his creation at every moment,
+    occasionally tweaks a self-perpetuating
+    universe."
+  comment: ""
+  location: "2423"
+- 
+  content: >
+    It shows that digital simulation can
+    explore ideas in the form of direct
+    experiences, which was impossible with
+    previous art forms."
+  comment: ""
+  location: "2426"
+- 
+  content: >
+    If you didn’t specify the weight of a
+    digital painting in the original
+    definition, it isn’t just weightless,
+    it is less than weightless."
+  comment: ""
+  location: "2459"
+- 
+  content: >
+    What makes something fully real is that
+    it is impossible to represent it to
+    completion."
+  comment: ""
+  location: "2461"
+- 
+  content: >
+    No digital image is really distinct from
+    any other; they can be morphed and
+    mashed up."
+  comment: "Is he really a fan of objects?! Benjamin's aura?"
+  location: "2464"
+- 
+  content: ""
+  comment: Danger of defaults.
+  location: "2488"
+- 
+  content: >
+    I want both to encourage reuse of my
+    music and to interact with the person
+    who hopes to use some of my music in an
+    aggregate work. I might not even demand
+    an ability to veto that other person’s
+    plans, but I want at least a chance at a
+    connection."
+  comment: ""
+  location: "2499"
+- 
+  content: >
+    if art is the focus, then interaction is
+    what I crave."
+  comment: ""
+  location: "2502"
+- 
+  content: >
+    You could come up with an invented
+    language in which the letters that
+    compose the words to John Lennon’s
+    “Imagine” instead spell out the
+    instructions for cleaning a
+    refrigerator."
+  comment: ""
+  location: "2505"
+- 
+  content: ""
+  comment: "How much respect for others' content is too much?"
+  location: "2514"
+- 
+  content: >
+    When you come upon a video clip or
+    picture or stretch of writing that has
+    been made available in the web 2.0
+    manner, you almost never have access to
+    the history or the locality in which it
+    was perceived to have meaning by the
+    anonymous person who left it there. A
+    song might have been tender, or brave,
+    or redemptive in context, but those
+    qualities will usually be lost."
+  comment: Context online
+  location: "2522"
+- 
+  content: >
+    In fact, there is even a tendency to
+    want to think of nature as if she were a
+    hive mind, which she is not. For
+    instance, nature could not maximize the
+    meaning of genes without species."
+  comment: Human constructions of nature.
+  location: "2540"
+- 
+  content: >
+    I suppose amateurs, robots, and an
+    aggregation of amateurs and robots might
+    someday hack genes in the global garage
+    and tweet DNA sequences around the globe
+    at light speed. Or there might be a
+    slightly more sober process that takes
+    place between institutions like high
+    schools and start-up companies."
+  comment: Honestly??
+  location: "2570"
+- 
+  content: 'same reason that the Linux community didn’t come up with the iPhone: encapsulation serves a purpose."'
+  comment: ""
+  location: "2577"
+- 
+  content: >
+    The universe won’t last long enough
+    for every possible combination of
+    elements in a complicated construction
+    like a cell to be tested. Therefore, the
+    only option is to establish as much as
+    possible from the results of each test
+    and proceed incrementally."
+  comment: "Argument against comprehensively generative solutions. Finding the needle in generated haystacks, there isn't a needle."
+  location: "2584"
+- 
+  content: >
+    Academic efforts are usually well
+    encapsulated, for instance. Scientists
+    don’t publish until they are ready,
+    but publish they must. So science as it
+    is already practiced is open, but in a
+    punctuated, not continuous, way. The
+    interval of nonopenness—the time
+    before publication—functions like the
+    walls of a cell. It allows a complicated
+    stream of elements to be defined well
+    enough to be explored, tested, and then
+    improved."
+  comment: ""
+  location: "2589"
+- 
+  content: >
+    Especially on mobile devices, text-entry
+    boxes and software widgets that are
+    devoted purely to Wikipedia are starting
+    to appear, not even bothering to include
+    the web at large. If Wikipedia is
+    treated as the overarching, primary text
+    of the human experience, then of course
+    it will, as if by decree, become “more
+    convenient” than other texts."
+  comment: >
+    This is an interesting point. The slight
+    danger of "publishing" a convenient
+    collaborative resource.
+  location: "2634"
+- 
+  content: >
+    It is disappointing to me that
+    pioneering work continues primarily on
+    paper, having become muted online."
+  comment: ""
+  location: "2700"
+- 
+  content: >
+    In Silicon Valley you will meet
+    Buddhists, anarchists, goddess
+    worshippers, Ayn Rand fanatics,
+    self-described Jesus freaks, nihilists,
+    and plenty of libertarians, as well as
+    surprising blends of all of the above
+    and many others who seem to be
+    nonideological. And yet there is one
+    belief system that doesn’t quite mesh
+    with any of these identities that
+    nonetheless serves as a common
+    framework. For lack of a better word, I
+    call it computationalism."
+  comment: ""
+  location: "2738"
+- 
+  content: >
+    Perhaps it would be better if I could
+    find one single philosophy that I could
+    apply equally to each circumstance, but
+    I find that the best path is to believe
+    different things about aspects of
+    reality when I play these different
+    roles or perform different duties."
+  comment: ""
+  location: "2761"
+- 
+  content: 'Logical positivism is the idea that a sentence or another fragment—something you can put in a computer file—means something in a freestanding way that doesn’t require invoking the subjectivity of a human reader. Or, to put it in nerd-speak: “The meaning of a sentence is the instructions to verify it.”"'
+  comment: ""
+  location: "2781"
+- 
+  content: >
+    The thinking goes that within the cloud
+    there will be no need for the numinous
+    halves of traditional oppositions such
+    as syntax/semantics, quantity/quality,
+    content/context, and knowledge/wisdom."
+  comment: ""
+  location: "2786"
+- 
+  content: ""
+  comment: Look into this!
+  location: "2791"
+- 
+  content: >
+    People can make themselves believe in
+    all sorts of fictitious beings, but when
+    those beings are perceived as inhabiting
+    the software tools through which we live
+    our lives, we have to change ourselves
+    in unfortunate ways in order to support
+    our fantasies. We make ourselves dull."
+  comment: ""
+  location: "2808"
+- 
+  content: 'The National Institute of Standards and Technology tests facial recognition systems in the same spirit in which drugs and cars are tested: the public needs to know which ones are trustworthy."'
+  comment: ""
+  location: "2890"
+- 
+  content: >
+    The hope that language would be like a
+    computer program has died. Instead,
+    music has changed to become more like a
+    computer program."
+  comment: ""
+  location: "3037"
+- 
+  content: >
+    But Rama also wonders about other kinds
+    of metaphors, ones that don’t
+    obviously fall into the bouba/kiki
+    category. In his current favorite
+    example, Shakespeare has Romeo declare
+    Juliet to be “the sun.” There is no
+    obvious bouba/kiki–like dynamic that
+    would link a young, female, doomed
+    romantic heroine with a bright orb in
+    the sky, yet the metaphor is immediately
+    clear to anyone who hears it."
+  comment: ""
+  location: "3086"
+- 
+  content: >
+    The brain is so desirous of associations
+    that it will then amplify any tiny
+    potential linkage in order to get a
+    usable one."
+  comment: ""
+  location: "3100"
+- 
+  content: >
+    much of the most expressive slang comes
+    from people with limited formal
+    education who are making creative use of
+    the words they know. This is true of
+    pidgin languages, street slang, and so
+    on. The most evocative words are often
+    the most common ones that are used in
+    the widest variety of ways."
+  comment: ""
+  location: "3104"
+- 
+  content: >
+    Imagine that you had an endless capacity
+    for vocabulary at the same time that you
+    were inventing language. In that case
+    you could make up an arbitrary new word
+    for each new thing you had to say. A
+    compressed vocabulary might engender
+    less lazy, more evocative words. Maybe
+    the modest brain capacity of early
+    hominids was the source of the
+    limitation of vocabulary size. Whatever
+    the cause, an initially limited
+    vocabulary might be necessary for the
+    emergence of an expressive language. Of
+    course, the vocabulary can always grow
+    later on, once the language has
+    established itself. Modern English has a
+    huge vocabulary."
+  comment: Really relevant to Ted Nelson.
+  location: "3118"
+- 
+  content: >
+    If we had infinite brains, capable of
+    using an infinite number of words, those
+    words would mean nothing, because each
+    one would have too specific a usage. Our
+    early hominid ancestors were spared from
+    that problem, but with the coming of the
+    internet, we are in danger of
+    encountering it now. Or, more precisely,
+    we are in danger of pretending with such
+    intensity that we are encountering it
+    that it might as well be true."
+  comment: ""
+  location: "3124"
+- 
+  content: 'Treating people as nothing other than parts of nature is an uninspired basis for designing technologies that embody human aspirations. The inverse error is just as misguided: it’s a mistake to treat nature as a person. That is the error that yields confusions like intelligent design."'
+  comment: ""
+  location: "3154"
+- 
+  content: >
+    an idea of progress that is centered on
+    enriching the depth of communication
+    instead of the acquisition of powers."
+  comment: ""
+  location: "3171"
+- 
+  content: >
+    The phase of life we call
+    “childhood” was greatly expanded in
+    connection with the rise of literacy,
+    because it takes time to learn to read."
+  comment: ""
+  location: "3186"
+- 
+  content: >
+    Separation anxiety is assuaged by
+    constant connection. Young people
+    announce every detail of their lives on
+    services like Twitter not to show off,
+    but to avoid the closed door at bedtime,
+    the empty room, the screaming vacuum of
+    an isolated mind."
+  comment: ""
+  location: "3200"
+- 
+  content: >
+    By contrast, it’s been well over a
+    decade since network-based search
+    services appeared, and they are still
+    trapped in the command line era. At this
+    rate, by 2020, we can expect software
+    development to have slowed to a near
+    stasis, like a clock approaching a black
+    hole."
+  comment: ""
+  location: "3212"
+- 
+  content: >
+    Some the greatest speculative
+    investments in human history continue to
+    converge on silly Silicon Valley schemes
+    that seem to have been named by Dr.
+    Seuss. On any given day, one might hear
+    of tens or hundreds of millions of
+    dollars flowing to a start-up company
+    named Ublibudly or MeTickly. These are
+    names I just made up, but they would
+    make great venture capital bait if they
+    existed. At these companies one finds
+    rooms full of MIT PhD engineers not
+    seeking cancer cures or sources of safe
+    drinking water for the underdeveloped
+    world but schemes to send little digital
+    pictures of teddy bears and dragons
+    between adult members of social
+    networks. At the end of the road of the
+    pursuit of technological sophistication
+    appears to lie a playhouse in which
+    humankind regresses to nursery school."
+  comment: ""
+  location: "3230"
+- 
+  content: >
+    In the future, I fully expect children
+    to turn into molecules and triangles in
+    order to learn about them with a
+    somatic, “gut” feeling. I fully
+    expect morphing to become as important a
+    dating skill as kissing."
+  comment: ""
+  location: "3313"
+- 
+  content: >
+    Cephalopods + Childhood = Humans +
+    Virtual Reality"
+  comment: ""
+  location: "3356"
+- 
+  content: ""
+  comment: Art as evolutionary disarmament
+  location: "3369"
+- 
+  content: >
+    For instance, instead of saying,
+    “I’m hungry; let’s go crab
+    hunting,” you might simulate your own
+    transparency so your friends could see
+    your empty stomach, or you might turn
+    into a video game about crab hunting so
+    you and your compatriots could get in a
+    little practice before the actual hunt.
+    I call this possibility “postsymbolic
+    communication.” It can be a hard idea
+    to think about, but I find it enormously
+    exciting. It would not suggest an
+    annihilation of language as we know
+    it—symbolic communication would
+    continue to exist—but it would give
+    rise to a vivid expansion of meaning."
+  comment: ""
+  location: "3382"
+- 
+  content: >
+    The point of the project is to find a
+    way of making software that rejects the
+    idea of the protocol. Instead, each
+    software module must use emergent
+    generic pattern-recognition
+    techniques—similar to the ones I
+    described earlier, which can recognize
+    faces—to connect with other modules.
+    Phenotropic computing could potentially
+    result in a kind of software that is
+    less tangled and unpredictable, since
+    there wouldn’t be protocol errors if
+    there weren’t any protocols. It would
+    also suggest a path to escaping the
+    prison of predefined, locked-in
+    ontologies like MIDI in human affairs."
+  comment: ""
+  location: "3402"
+- 
+  content: >
+    Don’t appropriate something just
+    because there’s a dose of novelty in
+    it, even though you have no idea what it
+    meant to the people who made it
+    originally. Connect, understand, or
+    empathize with the people you
+    appropriate from, to the degree you
+    can."
+  comment: ""
+  location: "3433"
+- 
+  content: >
+    Facebook’s assault on privacy and
+    anonymous comments on blogs are both
+    examples of antihuman software design,
+    even though they might seem like
+    opposites. Enforcing radical
+    anti-anonymity puts people in a similar
+    position as radical anonymity. In each
+    case, people are no longer able to
+    define themselves. The digital system
+    sets the rules and boundaries, instead
+    of each person."
+  comment: ""
+  location: "3546"
+- 
+  content: >
+    To be a person you have to find a sweet
+    spot in which you both invent yourself
+    and are real."
+  comment: ""
+  location: "3552"
+- 
+  content: >
+    mankind has already invented a filtering
+    technology that fixes the problem.
+    It’s called money. The reason for
+    spam, for instance, is that it doesn’t
+    cost anything to send or place it."
+  comment: ""
+  location: "3586"
+- 
+  content: >
+    It might be that in the context of
+    American culture in the social media
+    age, the illusion of certain online
+    benefits—like the notion that you
+    stand anything but a lotterylike chance
+    of earning a living from social
+    networking—is indirectly rational. It
+    might be a semiconscious means to a
+    soothing form of necessary
+    self-deception."
+  comment: ""
+  location: "3612"
+- 
+  content: >
+    If we are to give up privacy, we have to
+    do it all at once. Vigilante information
+    violation is a form of assault that
+    degrades society for everyone."
+  comment: ""
+  location: "3662"
+- 
+  content: >
+    While there is a lot of talk in the air
+    about whether to believe in God or not,
+    I suspect that religious arguments are
+    gradually incorporating coded debates
+    about whether to even believe in people
+    anymore."
+  comment: ""
+  location: "3673"
+
+----
+
+Read: false
+
+----
+
+Authors: Jaron Lanier
+
+----
+
+Publisher: 
+
+----
+
+Year: 
+
+----
+
+Category: book
+
+----
+
+Tags: 

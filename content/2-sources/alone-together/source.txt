@@ -1,0 +1,1049 @@
+Autoid: 21d01e19d721d89feec4ef0f21e91e3e
+
+----
+
+Title: Alone Together
+
+----
+
+Highlights: 
+
+- 
+  content: >
+    RL “is just one more window.” And,
+    he added, “it’s not usually my best
+    one.”"
+  comment: ""
+  location: "143"
+- 
+  content: >
+    Technology proposes itself as the
+    architect of our intimacies."
+  comment: ""
+  location: "256"
+- 
+  content: >
+    She said she thought it was a shame to
+    bring the turtle all this way from its
+    island home in the Pacific, when it was
+    just going to sit there in the museum,
+    motionless, doing nothing. Rebecca was
+    both concerned for the imprisoned turtle
+    and unmoved by its authenticity."
+  comment: ""
+  location: "303"
+- 
+  content: >
+    I find people willing to seriously
+    consider robots not only as pets but as
+    potential friends, confidants, and even
+    romantic partners."
+  comment: ""
+  location: "419"
+- 
+  content: ""
+  comment: >
+    sure this goes way back to early robots
+    toys. collaboration with systems
+  location: "420"
+- 
+  content: >
+    We are psychologically programmed not
+    only to nurture what we love but to love
+    what we nurture. So even simple
+    artificial creatures can provoke
+    heartfelt attachment."
+  comment: ""
+  location: "442"
+- 
+  content: >
+    people report feeling let down when they
+    move from the virtual to the real world.
+    It is not uncommon to see people fidget
+    with their smartphones, looking for
+    virtual places where they might once
+    again be more."
+  comment: >
+    biella coleman would disagree in the
+    case of hacker cons or meeting internet
+    friends as a good thing
+  location: "476"
+- 
+  content: >
+    But very quickly, the text message
+    became the connection of choice."
+  comment: ""
+  location: "493"
+- 
+  content: ""
+  comment: >
+    recent repopularization of video. appl
+    gets rid of ichat for facetime by
+    default. will this assumption have to be
+    updated?
+  location: "494"
+- 
+  content: >
+    “networking” in that old sense of
+    the word, the one that implies having a
+    coffee or sharing a meal."
+  comment: ""
+  location: "516"
+- 
+  content: ""
+  comment: already a lost definition
+  location: "516"
+- 
+  content: >
+    Life in a media bubble has come to seem
+    natural."
+  comment: ""
+  location: "557"
+- 
+  content: ""
+  comment: >
+    remarkably clear but specious orign
+    story for social network assimilation
+  location: "557"
+- 
+  content: >
+    It is too late to leave the future to
+    the futurists."
+  comment: ha
+  location: "578"
+- 
+  content: >
+    Rather, as a dream in development,
+    sociable robots cast new light on our
+    current circumstances. Our willingness
+    to consider their company says a lot
+    about the dissatisfactions we feel in
+    our networked lives today."
+  comment: >
+    turkles view of techs shiting role as a
+    symptom is uncommon and interesting but
+    she really pushes it...
+  location: "582"
+- 
+  content: take it “at interface value.”"
+  comment: ""
+  location: "593"
+- 
+  content: ""
+  comment: omg INTERface value
+  location: "593"
+- 
+  content: >
+    In virtual words and computer games,
+    people are flattened into personae. On
+    social networks, people are reduced to
+    their profiles. On our mobile devices,
+    we often talk to each other on the move
+    and with little disposable time—so
+    little, in fact, that we communicate in
+    a new language of abbreviation in which
+    letters stand for words and emoticons
+    for feelings."
+  comment: ""
+  location: "600"
+- 
+  content: ""
+  comment: >
+    hmm lanier really rails on the
+    flattening but turkles point about
+    abbreviation is a good one...
+  location: "603"
+- 
+  content: 'It is one thing to design a robot for an instrumental purpose: to search for explosives in a war zone or, in a more homely register, to vacuum floors and wash dishes. But the robots in this book are designed to be with us. As some of the children ask, we must ask, Why do people no longer suffice?"'
+  comment: >
+    esentially she i skeptical of social or
+    companion bots. tho those functions are
+    embedded in many instrumental roles.
+    wonder if this tech widens the gap
+    between social and utility roles in
+    relation to humans.
+  location: "616"
+- 
+  content: >
+    Our new encounters with sociable
+    robots—encounters that began in the
+    past decade with the introduction of
+    simple robot toys into children’s
+    playrooms—provoke responses that are
+    not about these machines’ capabilities
+    but our vulnerabilities."
+  comment: ""
+  location: "623"
+- 
+  content: >
+    Faced with a program that makes the
+    smallest gesture suggesting it can
+    empathize, people want to say something
+    true."
+  comment: ""
+  location: "641"
+- 
+  content: >
+    During class meetings he would rail
+    against his program’s capacity to
+    deceive; I did not share his concern. I
+    saw ELIZA as a kind of Rorschach, the
+    psychologist’s inkblot test. People
+    used the program as a projective screen
+    on which to express themselves. Yes, I
+    thought, they engaged in personal
+    conversations with ELIZA, but in a
+    spirit of “as if.” They spoke as if
+    someone were listening but knew they
+    were their own audience."
+  comment: ""
+  location: "645"
+- 
+  content: >
+    At the robotic moment, more than ever,
+    our willingness to engage with the
+    inanimate does not depend on being
+    deceived but on wanting to fill in the
+    blanks."
+  comment: ""
+  location: "655"
+- 
+  content: >
+    as it turns out, it’s a small step
+    from having your “life” saved by a
+    bot you meet in a virtual world to
+    feeling a certain affection toward
+    it—and not the kind of affection you
+    might feel toward a stereo or car, no
+    matter how beloved."
+  comment: ""
+  location: "658"
+- 
+  content: >
+    In February 2010, I googled the exact
+    phrase “sex robots” and came up with
+    313,000 hits,"
+  comment: lol
+  location: "665"
+- 
+  content: >
+    Computers “understand” as little as
+    ever about human experience—for
+    example, what it means to envy a sibling
+    or miss a deceased parent. They do,
+    however, perform understanding better
+    than ever, and we are content to play
+    our part."
+  comment: ""
+  location: "690"
+- 
+  content: ""
+  comment: >
+    intersting parallel to missnk gas pedal.
+    dont need to understand to perfom
+    understanding.
+  location: "691"
+- 
+  content: >
+    One reason the children at the museum
+    were so relaxed about a robot
+    substituting for a living tortoise is
+    that children were comfortable with the
+    idea of a robot as both machine and
+    creature."
+  comment: ""
+  location: "748"
+- 
+  content: >
+    Wilson’s way of keeping in mind the
+    dual aspects of the Furby’s nature
+    seems to me a philosophical version of
+    multitasking, so central to our
+    twentieth-century attentional ecology.
+    His attitude is pragmatic. If something
+    that seems to have a self is before him,
+    he deals with the aspect of self he
+    finds most relevant to the context."
+  comment: ""
+  location: "754"
+- 
+  content: >
+    curious children go through a period of
+    trying to sort out the new sociable
+    objects. But soon children take them at
+    interface value, not as puzzles but as
+    play-mates."
+  comment: ""
+  location: "795"
+- 
+  content: ""
+  comment: >
+    period of meta consideration does not
+    last
+  location: "796"
+- 
+  content: >
+    Meeting a person (or a pet) is not about
+    meeting his or her biochemistry;
+    becoming acquainted with a sociable
+    machine is not about deciphering its
+    programming."
+  comment: ""
+  location: "803"
+- 
+  content: ""
+  comment: >
+    can it be. swinehart approach. brute
+    force. ifferent kind of underdstanding.
+    no frindship. knowing it reduces it back
+    to lifelessness.
+  location: "804"
+- 
+  content: >
+    the inability to turn off a Tamagotchi
+    becomes evidence of its life."
+  comment: animal crossing resetti
+  location: "818"
+- 
+  content: >
+    Many children are not so eager to hit
+    reset. They don’t like having a new
+    creature in the same egg where their
+    virtual pet has died."
+  comment: ""
+  location: "833"
+- 
+  content: ""
+  comment: jawdrop
+  location: "834"
+- 
+  content: >
+    They sanction the idea that it is
+    appropriate to mourn the
+    digital—indeed, that there is
+    something “there” to mourn."
+  comment: >
+    while interactive toys may be procedural
+    how different is this feeling than
+    empathizing with a fictional character
+    in a book. maybe a second person novel.
+    tho rare. is a closer comparison. living
+    a system. as games or toys can make us
+    do. is just fiction with us as the
+    center.
+  location: "864"
+- 
+  content: >
+    each Furby is an anthropologist of sorts
+    and wants to relate to people."
+  comment: ""
+  location: "871"
+- 
+  content: ""
+  comment: ha amazing
+  location: "871"
+- 
+  content: >
+    In their own way, toy robots prepare a
+    bionic sensibility. There are people who
+    do, after all, have screws and pins and
+    chips and plates in their flesh."
+  comment: ""
+  location: "904"
+- 
+  content: >
+    Nor are they mollified by parents’
+    offers to buy them new Furbies. Even
+    more so than with Tamagotchis, children
+    attach to a particular Furby, the one
+    they have taught English, the one they
+    have raised."
+  comment: perceived authenticity or individualism
+  location: "931"
+- 
+  content: relational artifacts"
+  comment: ""
+  location: "940"
+- 
+  content: >
+    Children say that traditional dolls can
+    be “hard work” because you have to
+    do all the work of giving them ideas;
+    Furbies are hard work for the opposite
+    reason. They have plenty of ideas, but
+    you have to give them what they want and
+    when they want it."
+  comment: ""
+  location: "956"
+- 
+  content: >
+    you can feel bad about yourself for how
+    you behave with a computer program."
+  comment: ""
+  location: "1080"
+- 
+  content: >
+    The Furby with its expressions of fear
+    and the gendered Nexi with her blindfold
+    are the new uncanny in the culture of
+    computing."
+  comment: ""
+  location: "1146"
+- 
+  content: >
+    I find these programmed assertions of
+    boundaries and modesty disturbing
+    because it is almost impossible to hear
+    them without imagining an erotic body
+    braced for assault."
+  comment: ""
+  location: "1149"
+- 
+  content: >
+    They will run the restaurants, taste the
+    food, and they will be the ones who will
+    love each other, have families and love
+    each other. I guess they’ll still be
+    the only ones who go to church.”"
+  comment: ""
+  location: "1158"
+- 
+  content: ""
+  comment: >
+    robots could be porgramed to say things
+    twice like this. and to want church.
+  location: "1160"
+- 
+  content: >
+    The question here is not whether
+    machines can be made to think like
+    people but whether people have always
+    thought like machines."
+  comment: ""
+  location: "1221"
+- 
+  content: 'the mythic resonance of their new science: Were they people putting themselves in the place of gods?2 The impulse to create an object in one’s own image is not new—think Galatea, Pygmalion, Frankenstein. These days, what is new is that an off-the-shelf technology as simple as an AIBO provides an experience of shaping one’s own companion. But the robots are shaping us as well, teaching us how to behave so that they can flourish.3"'
+  comment: ""
+  location: "1242"
+- 
+  content: >
+    Those who can only deal with others as
+    part objects are highly vulnerable to
+    the seductions of a robot companion.
+    Those who succumb will be stranded in
+    relationships that are only about one
+    person."
+  comment: against subscribing to facets
+  location: "1266"
+- 
+  content: >
+    In this dismissal of origins we see the
+    new pragmatism."
+  comment: ""
+  location: "1290"
+- 
+  content: >
+    Henry is caught in a complicated,
+    circular love test. In our passage to
+    postbiological relationships, we give
+    ourselves new troubles."
+  comment: ""
+  location: "1359"
+- 
+  content: >
+    Artificial intelligence is often
+    described as the art and science of
+    “getting machines to do things that
+    would be considered intelligent if done
+    by people.” We are coming to a
+    parallel definition of artificial
+    emotion as the art of “getting
+    machines to express things that would be
+    considered feelings if expressed by
+    people.”"
+  comment: ""
+  location: "1402"
+- 
+  content: >
+    There I stood in the presence of a robot
+    and I wanted it to favor me. My response
+    was involuntary, I am tempted to say
+    visceral."
+  comment: ""
+  location: "1777"
+- 
+  content: >
+    But more than marking progress toward
+    such practical applications, Cog and
+    Kismet generate feelings of kinship.
+    We’ve already seen that when this
+    happens, two ideas become more
+    comfortable. The first is that people
+    are not so different from robots; that
+    is, people are built from information.
+    The second is that robots are not so
+    different from people; that is, robots
+    are more than the sum of their machine
+    parts."
+  comment: ""
+  location: "1790"
+- 
+  content: >
+    in the mid-1980s, one MIT student mused
+    that his teacher, AI pioneer Marvin
+    Minsky, really wanted to “create a
+    computer beautiful enough that a soul
+    would want to live in it.”"
+  comment: ""
+  location: "1795"
+- 
+  content: >
+    if these robots belong with people, then
+    what failings in people require robots?"
+  comment: ""
+  location: "1818"
+- 
+  content: ""
+  comment: >
+    how definiton of people hs chamged
+    through history. used to exclude women
+    and slaves
+  location: "1819"
+- 
+  content: >
+    The children imbue Cog with life even
+    when being shown, as in the famous scene
+    from the Wizard of Oz, the man (or, in
+    this case, the machines) behind the
+    magic."
+  comment: ""
+  location: "1889"
+- 
+  content: >
+    When children congratulate the robots
+    one hears something akin to parental
+    pride. When the robots succeed, in even
+    the smallest thing, children take credit
+    and present each success as evidence
+    that their own patience has borne
+    fruit."
+  comment: ""
+  location: "1948"
+- 
+  content: ""
+  comment: >
+    the sims. game design. only robots are
+    not contqined.
+  location: "1950"
+- 
+  content: >
+    When Neela first sees Cog, she exclaims,
+    “Oh, it’s so cute!” and then
+    explains, “He has such innocent eyes,
+    and a soft-looking face.”"
+  comment: ""
+  location: "1951"
+- 
+  content: ""
+  comment: >
+    could the next shift eventually be
+    hjatred of robots
+  location: "1952"
+- 
+  content: >
+    Neela hopes that Cog will get over its
+    problems or that “he might grow out of
+    it.... He’s very young you know.”"
+  comment: >
+    is this as real or symptomatic as
+    described. could be jokey or
+    metaphorical. also i wanna see
+    unconvined ppl stories
+  location: "1962"
+- 
+  content: >
+    Children from affluent as well as
+    economically disadvantaged homes talk
+    about parents they rarely see. When
+    these children interpret robotic
+    technical limitations as rejection, they
+    become withdrawn, depressed, or angry.
+    Some take foolish chances."
+  comment: >
+    robots teach us about parenting. did we
+    need them to know this
+  location: "2006"
+- 
+  content: >
+    My team meets at a local coffee shop to
+    discuss the ethics of exposing a child
+    to a sociable robot whose technical
+    limitations make it seem uninterested in
+    the child."
+  comment: ""
+  location: "2011"
+- 
+  content: >
+    Can a broken robot break a child? We
+    would not consider the ethics of having
+    children play with a damaged copy of
+    Microsoft Word or a torn Raggedy Ann
+    doll. But sociable robots provoke enough
+    emotion to make this ethical question
+    feel very real."
+  comment: ""
+  location: "2024"
+- 
+  content: >
+    Most children find a way to engage with
+    a faltering robot, imagining themselves
+    as parents or teachers or healers."
+  comment: ""
+  location: "2043"
+- 
+  content: >
+    But like the insecure Estelle and Leon,
+    these are the children who most need
+    relationships that will model mutuality,
+    where control is not the main thing on
+    the table."
+  comment: >
+    bullyproof robot. designed more
+    specifically for these group. hate to
+    say it but could be interesting.
+  location: "2066"
+- 
+  content: >
+    the tradition of academic property
+    rights demands that Kismet, like Cog, be
+    left behind in the laboratory that paid
+    for its development."
+  comment: ""
+  location: "2074"
+- 
+  content: ""
+  comment: patent bullshit
+  location: "2075"
+- 
+  content: >
+    I am skeptical. I believe that sociable
+    technology will always disappoint
+    because it promises what it cannot
+    deliver. It promises friendship but can
+    only deliver performances. Do we really
+    want to be in the business of
+    manufacturing friends that will never be
+    friends?"
+  comment: ""
+  location: "2102"
+- 
+  content: >
+    It seems to have little in it that is
+    positive."
+  comment: ""
+  location: "2116"
+- 
+  content: ""
+  comment: >
+    technology and researchers have an
+    ethics that artists dont need to have.
+    or rather this robot woul be interpeted
+    as a symptom in them. and yet
+    researchers don in that they are always
+    taking defense grant to do this stuff
+  location: "2116"
+- 
+  content: 'the authors use this narrative as evidence of success: children will be open to humanlike robots as teachers, babysitters, and companions. But what could it mean to this child to sit with her father’s machine double? What could she want from it? Why does it matter that she is finally willing to make eye contact and speak with it? Why would we want her to? It is easy to become so immersed in technology that we ignore what we know about life."'
+  comment: ""
+  location: "2116"
+- 
+  content: >
+    I heard only one negative comment. A
+    woman who identified herself as a nurse
+    said that she and her colleagues had
+    worked long and hard to move away from
+    representing the elderly as childlike.
+    To her, Paro seemed “a throwback, a
+    new and fancier teddy bear.”"
+  comment: ""
+  location: "2132"
+- 
+  content: >
+    But over years of study, when given the
+    choice between hanging out with a robot
+    and talking to one of the researchers on
+    the MIT team, most seniors, grateful,
+    choose the person."
+  comment: ""
+  location: "2161"
+- 
+  content: >
+    One young man, in particular, was a far
+    more attractive object of attention than
+    the Paro he was trying to introduce. One
+    had the distinct feeling that female
+    nursing home residents put up with the
+    robot because he came with it. Their
+    appreciation, sometimes bawdy in tone,
+    took place in one nursing home so short
+    of resources that the management decided
+    our study could not continue."
+  comment: ""
+  location: "2164"
+- 
+  content: ""
+  comment: omg
+  location: "2166"
+- 
+  content: >
+    “Like a machine that cuts your
+    toenails. Or bathes you. That is a
+    caring computer. Or talks with you if
+    you are lonely. Same thing.” Some
+    participants met my objections about
+    language with impatience. They thought I
+    was quibbling over semantics. But I
+    don’t think this slippage of language
+    is a quibble."
+  comment: ""
+  location: "2189"
+- 
+  content: >
+    Paro took care of Miriam’s desire to
+    tell her story—it made a space for
+    that story to be told—but it did not
+    care about her or her story. This is a
+    new kind of relationship, sanctioned by
+    a new language of care."
+  comment: ""
+  location: "2192"
+- 
+  content: ""
+  comment: >
+    reminds me of humanless social media
+    sites. games.
+  location: "2194"
+- 
+  content: 'We ask technology to perform what used to be “love’s labor”: taking care of each other."'
+  comment: ""
+  location: "2196"
+- 
+  content: >
+    if children are minded at day-care
+    facilities that seem like little more
+    than safe warehouses, the idea of a
+    robot babysitter becomes less
+    troubling.)"
+  comment: >
+    my stance on robot teachers. i love
+    tukles idealism whereas i thought just
+    about cutting out he empathy as
+    extraneous to learning. what aboyt
+    interactively written books and mdia
+    that refer to .you. publishing
+    dissemination. tects we bond with.
+    animate in our heads. are true
+    precursors. harry potter for exampk
+    makes ppl crazy. or weirdy hsn
+    parasocial relationships.
+  location: "2201"
+- 
+  content: >
+    Philosophers say that our capacity to
+    put ourselves in the place of the other
+    is essential to being human. Perhaps
+    when people lose this ability, robots
+    seem appropriate company because they
+    share this incapacity."
+  comment: mass loss of empathy
+  location: "2219"
+- 
+  content: >
+    Will only the wealthy and “well
+    adjusted” be granted the company of
+    their own kind?8"
+  comment: >
+    humans become luxury. already see this
+    in messaging culture.
+  location: "2225"
+- 
+  content: >
+    He says that their mother is
+    “depressed.” The younger brother is
+    offended by the robot, pointing out that
+    their mother has a right to be sad."
+  comment: ""
+  location: "2233"
+- 
+  content: >
+    the conversation about the value of
+    “caring machines” is deflected with
+    the idea that “seeming” or
+    “pretending” behavior long predates
+    robots. So, the problem is not what we
+    are asking machines to do because people
+    have always behaved like machines."
+  comment: ""
+  location: "2523"
+- 
+  content: 'Kismet can mimic human prosody, so when Rich becomes intimate in his tone, so does the robot. The two could easily be at a cocktail party or at a bar.2 Rich: Do you know what it’s like to lose something? Kismet: [nods with assent; sounds warm in its interest] Rich: You are"'
+  comment: "omg. just lol'd at this on the train."
+  location: "2582"
+- 
+  content: >
+    In this encounter we see how complicity
+    gratifies by offering a fantasy of near
+    communion."
+  comment: ""
+  location: "2604"
+- 
+  content: >
+    Edsinger experiences a connection where
+    knowledge does not interfere with
+    wonder."
+  comment: ""
+  location: "2662"
+- 
+  content: >
+    And this is where we are in the robotic
+    moment. One of the world’s most
+    sophisticated robot “users” cannot
+    resist the idea that pressure from a
+    robot’s hand implies caring. If we are
+    honest with ourselves about what
+    machines care about, we must accept
+    their ultimate indifference. And yet, a
+    hand that reaches for ours says, “I
+    need you. Take care of me. Attend to me.
+    And then, perhaps, I will—and will
+    want to—attend to you.”"
+  comment: ""
+  location: "2683"
+- 
+  content: >
+    whatever intelligence machines may
+    achieve, it will never be the kind that
+    people have because no body given to a
+    machine will be a human body. Therefore,
+    the machine’s intelligence, no matter
+    how interesting, will be alien."
+  comment: ""
+  location: "2699"
+- 
+  content: >
+    The questions for the future are not
+    whether children will love their robot
+    companions more than their pets or even
+    their parents. The questions are rather,
+    What will love be? And what will it mean
+    to achieve ever-greater intimacy with
+    our machines? Are we ready to see
+    ourselves in the mirror of the machine
+    and to see love as our performances of
+    love?"
+  comment: ""
+  location: "2771"
+- 
+  content: >
+    when we make a job rote, we are more
+    open to having machines do it. But even
+    when people do it, they and the people
+    they serve feel like machines."
+  comment: ""
+  location: "2930"
+- 
+  content: >
+    Japanese roboticists are fond of
+    pointing out that in their country, even
+    worn-out sewing needles are buried with
+    ceremony. At some shrines in Japan,
+    dolls, including sex dolls, are given
+    proper burials. It is commonplace to
+    think of the inanimate as having a life
+    force. If a needle has a soul, why
+    shouldn’t a robot?"
+  comment: ""
+  location: "2936"
+- 
+  content: >
+    This is the experience of living
+    full-time on the Net, newly free in some
+    ways, newly yoked in others. We are all
+    cyborgs now."
+  comment: ""
+  location: "2970"
+- 
+  content: >
+    She confessed that it is ever more
+    difficult to begin her spiritual
+    exercises before she checks her e-mail;
+    the discipline to defer opening her
+    inbox is now part of her devotional
+    gesture."
+  comment: ""
+  location: "3007"
+- 
+  content: >
+    Robotics and connectivity call each
+    other up in tentative symbiosis,
+    parallel pathways to relational retreat.
+    With sociable robots we are alone but
+    receive the signals that tell us we are
+    together. Networked, we are together,
+    but so lessened are our expectations of
+    each other that we can feel utterly
+    alone. And there is the risk that we
+    come to see others as objects to be
+    accessed—and only for the parts we
+    find useful, comforting, or amusing."
+  comment: ""
+  location: "3012"
+- 
+  content: >
+    At a café a block from my home, almost
+    everyone is on a computer or smartphone
+    as they drink their coffee. These people
+    are not my friends, yet somehow I miss
+    their presence."
+  comment: ""
+  location: "3041"
+- 
+  content: >
+    Today, our machine dream is to be never
+    alone but always in control. This
+    can’t happen when one is face-to-face
+    with a person. But it can be
+    accomplished with a robot or, as we
+    shall see, by slipping through the
+    portals of a digital life."
+  comment: ""
+  location: "3074"
+- 
+  content: >
+    We may begin by thinking that e-mails,
+    texts, and Facebook messaging are thin
+    gruel but useful if the alternative is
+    sparse communication with the people we
+    care about. Then, we become accustomed
+    to their special pleasures—we can have
+    connection when and where we want or
+    need it, and we can easily make it go
+    away. In only a few more steps, you have
+    people describing life on Facebook as
+    better than anything they have ever
+    known."
+  comment: ""
+  location: "3140"
+- 
+  content: >
+    In addition to the time he spends on
+    Second Life, Pete has an avatar on World
+    of Warcraft, and he is a regular on the
+    social-networking sites Facebook,
+    LinkedIn, and Plaxo."
+  comment: ""
+  location: "3147"
+- 
+  content: ""
+  comment: plaxoooo
+  location: "3149"
+- 
+  content: 'she uses our new kind of time: the time of attention sharing."'
+  comment: even idleness is eager
+  location: "3279"
+- 
+  content: >
+    The self that treats a person as a thing
+    is vulnerable to seeing itself as one."
+  comment: ""
+  location: "3301"
+- 
+  content: ""
+  comment: fearful symmetries
+  location: "3301"
+- 
+  content: >
+    things move from “I have a feeling, I
+    want to make a call” to “I want to
+    have a feeling, I need to make a
+    call,” or in her case, send a text.
+    What is not being cultivated here is the
+    ability to be alone and reflect on
+    one’s emotions in private."
+  comment: collaborative self
+  location: "3424"
+- 
+  content: >
+    Technology does not cause but encourages
+    a sensibility in which the validation of
+    a feeling becomes part of establishing
+    it, even part of the feeling itself."
+  comment: ""
+  location: "3441"
+- 
+  content: >
+    these days, a college student who texts
+    home fifteen times a day is not
+    unusual."
+  comment: really?
+  location: "3470"
+- 
+  content: >
+    “If Facebook were deleted, I’d be
+    deleted.... All my memories would
+    probably go along with it. And other
+    people have posted pictures of me. All
+    of that would be lost. If Facebook were
+    undone, I might actually freak out....
+    That is where I am. It’s part of your
+    life. It’s a second you.”"
+  comment: ""
+  location: "3709"
+- 
+  content: >
+    One of the emotional affordances of
+    digital communication is that one can
+    always hide behind deliberated
+    nonchalance."
+  comment: ""
+  location: "3830"
+- 
+  content: >
+    In this group, there is near consensus
+    that one of the pleasures of digital
+    communication is that it does not need a
+    message. It can be there to trigger a
+    feeling rather than transmit a thought."
+  comment: ""
+  location: "3840"
+- 
+  content: >
+    Increasingly, people feel as though they
+    must have a reason for taking time
+    alone, a reason not to be available"
+  comment: ""
+  location: "3913"
+
+----
+
+Read: false
+
+----
+
+Authors: 
+
+----
+
+Publisher: 
+
+----
+
+Year: 
+
+----
+
+Category: book
+
+----
+
+Tags: 

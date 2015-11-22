@@ -1,0 +1,61 @@
+Title: Seeing Like a State
+
+----
+
+Read: true
+
+----
+
+Authors: James C. Scott
+
+----
+
+Publisher: 
+
+----
+
+Year: 
+
+----
+
+Category: book
+
+----
+
+Tags: 
+
+----
+
+Autoid: 
+
+----
+
+Highlights: 
+
+- 
+  content: >
+    To the question "What is your name?"
+    which has a more unambiguous answer in
+    the contemporary West, the only
+    plausible answer is "It depends."
+  comment: ""
+  location: 1374-1375
+- 
+  content: >
+    Part of our emergency is that it’s so
+    awfully tempting to do this sort of
+    thing now, to retreat to narrow
+    arrogance, pre-formed positions, rigid
+    filters, the “moral clarity” of the
+    immature. The alternative is dealing
+    with massive, high-entropy amounts of
+    info and ambiguity and conflict and
+    flux; it’s continually discovering new
+    vistas of personal ignorance and
+    delusion. In sum, to really try to be
+    informed and literate today is to feel
+    stupid nearly all the time, and to need
+    help. That’s about as clearly as I can
+    put it.
+  comment: ""
+  location: 1349-1350

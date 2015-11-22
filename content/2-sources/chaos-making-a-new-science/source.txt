@@ -1,0 +1,368 @@
+Autoid: 2e668d6f82e229432898c9e896e3ac66
+
+----
+
+Title: chaos-making-a-new-science
+
+----
+
+Highlights: 
+
+- 
+  content: >
+    quasiperiodicity"
+  comment: ""
+  location: "56"
+- 
+  content: >
+    Even Feigenbaum’s friends were wondering whether he was ever going to produce any work of his own. As willing as he was to do impromptu magic with their questions, he did not seem interested in devoting his own research to any problem that might pay off. He thought about turbulence in liquids and gases. He thought about time—did it glide smoothly forward or hop discretely like a sequence of cosmic motion-picture frames? He thought about the eye’s ability to see consistent colors and forms in a universe that physicists knew to be a shifting quantum kaleidoscope. He thought about clouds, watching them from airplane windows (until, in 1975, his scientific travel privileges were officially suspended on grounds of overuse)"
+  comment: ""
+  location: "62"
+- 
+  content: >
+    At Los Alamos, a Center for Nonlinear Studies was established to coordinate work on chaos and related problems; similar institutions have appeared on university campuses across the country."
+  comment: ""
+  location: "97"
+- 
+  content: >
+    Believers in chaos—and they sometimes call themselves believers, or converts, or evangelists—speculate about determinism and free will, about evolution, about the nature of conscious intelligence. They feel that they are turning back a trend in science toward reductionism, the analysis of systems in terms of their constituent parts: quarks, chromosomes, or neurons. They believe that they are looking for the whole."
+  comment: ""
+  location: "115"
+- 
+  content: >
+    Two generations had passed since the field produced a new theoretical idea that changed the way nonspecialists understand the world."
+  comment: "Would be an interesting \"metric\" to apply to art. Or is it dangerous for both fields?"
+  location: "144"
+- 
+  content: >
+    He turned his attention more and more to the mathematics of systems that never found a steady state, systems that almost repeated themselves but never quite succeeded. Everyone knew that the weather was such a system—aperiodic."
+  comment: ""
+  location: "345"
+- 
+  content: >
+    These scientists could speak almost as easily to laymen as to each other, because they had not yet reached a stage where they could take for granted a common, specialized language for the phenomena they were studying. By contrast, a twentieth-century fluid dynamicist could hardly expect to advance knowledge in his field without first adopting a body of terminology and mathematical technique. In return, unconsciously, he would give up much freedom to question the foundations of his science."
+  comment: ""
+  location: "512"
+- 
+  content: >
+    Joseph Ford, started quoting Tolstoy: “I know that most men, including those at ease with problems of the greatest complexity, can seldom accept even the simplest and most obvious truth if it be such as would oblige them to admit the falsity of conclusions which they have delighted in explaining to colleagues, which they have proudly taught to others, and which they have woven, thread by thread, into the fabric of their lives.”"
+  comment: ""
+  location: "537"
+- 
+  content: >
+    But telescopes got better, and knowledge bred ignorance."
+  comment: ""
+  location: "791"
+- 
+  content: >
+    The spot became a gestalt test. Scientists saw what their intuitions allowed them to see."
+  comment: ""
+  location: "809"
+- 
+  content: >
+    a complex system can give rise to turbulence and coherence at the same time."
+  comment: ""
+  location: "840"
+- 
+  content: >
+    Mathematically inclined biologists of the twentieth century built a discipline, ecology, that stripped away the noise and color of real life and treated populations as dynamical systems."
+  comment: ""
+  location: "853"
+- 
+  content: >
+    A year-by–year facsimile produces no more than a shadow of a system’s intricacies, but in many real applications the shadow gives all the information a scientist needs."
+  comment: "Imperfect models can still be useful."
+  location: "882"
+- 
+  content: >
+    there might be no equilibrium."
+  comment: ""
+  location: "928"
+- 
+  content: >
+    Yorke felt that physicists had learned not to see chaos. In daily life, the Lorenzian quality of sensitive dependence on initial conditions lurks everywhere. A man leaves the house in the morning thirty seconds late, a flowerpot misses his head by a few millimeters, and then he is run over by a truck. Or, less dramatically, he misses a bus that runs every ten minutes—his connection to a train that runs every hour. Small perturbations in one’s daily trajectory can have large consequences."
+  comment: ""
+  location: "973"
+- 
+  content: >
+    deterministic disorder."
+  comment: ""
+  location: "1010"
+- 
+  content: >
+    In the context of that debate, chaos brought an astonishing message: simple deterministic models could produce what looked like random behavior. The behavior actually had an exquisite fine structure, yet any piece of it seemed indistinguishable from noise."
+  comment: ""
+  location: "1130"
+- 
+  content: >
+    The world would be a better place, May argued, if every young student were given a pocket calculator and encouraged to play with the logistic difference equation. That simple calculation, which he laid out in fine detail in the Nature article, could counter the distorted sense of the world’s possibilities that comes from a standard scientific education."
+  comment: ""
+  location: "1150"
+- 
+  content: >
+    When he went back to the giant IBM research center in Yorktown Heights, New York, in the hills of northern Westchester County, he carried Houthakker’s cotton data in a box of computer cards."
+  comment: ""
+  location: "1202"
+- 
+  content: >
+    The small-scale ups and downs during a day’s transactions are just noise, unpredictable and uninteresting. Long-term changes, however, are a different species entirely. The broad swings of prices over months or years or decades are determined by deep macroeconomic forces, the trends of war or recession, forces that should in theory give way to understanding. On the one hand, the buzz of short-term fluctuation; on the other, the signal of long-term change. As it happened, that dichotomy had no place in the picture of reality that Mandelbrot was developing. Instead of separating tiny changes from grand ones, his picture bound them together."
+  comment: ""
+  location: "1217"
+- 
+  content: >
+    “Very often when I listen to the list of my previous jobs I wonder if I exist. The intersection of such sets is surely empty.”"
+  comment: ""
+  location: "1235"
+- 
+  content: >
+    The shapes of classical geometry are lines and planes, circles and spheres, triangles and cones. They represent a powerful abstraction of reality, and they inspired a powerful philosophy of Platonic harmony. Euclid made of them a geometry that lasted two millennia, the only geometry still that most people ever learn. Artists found an ideal beauty in them, Ptolemaic astronomers built a theory of the universe out of them. But for understanding complexity, they turn out to be the wrong kind of abstraction."
+  comment: ""
+  location: "1355"
+- 
+  content: >
+    An observer trying to estimate the length of England’s coastline from a satellite will make a smaller guess than an observer trying to walk its coves and beaches, who will make a smaller guess in turn than a snail negotiating every pebble. A FRACTAL"
+  comment: ""
+  location: "1380"
+- 
+  content: >
+    “Intuition is not something that is given. I’ve trained my intuition to accept as obvious shapes which were initially rejected as absurd, and I find everyone else can do the same.”"
+  comment: ""
+  location: "1475"
+- 
+  content: >
+    Self-similarity is symmetry across scale. It implies recursion, pattern inside of pattern."
+  comment: ""
+  location: "1480"
+- 
+  content: >
+    Hurricane. By definition, it is a storm of a certain size. But the definition is imposed by people on nature."
+  comment: ""
+  location: "1563"
+- 
+  content: >
+  comment: "seems like a mistake"
+  location: "1563"
+- 
+  content: >
+    Typical human lungs pack in a surface bigger than a tennis court."
+  comment: ""
+  location: "1578"
+- 
+  content: >
+    Harvard historian of science I. Bernard Cohen. Cohen had scoured the annals of discovery for years, looking for scientists who had declared their own work to be “revolutions.” All told, he found just sixteen."
+  comment: ""
+  location: "1614"
+- 
+  content: >
+    At the height of his success, he was reviled by some colleagues, who thought he was unnaturally obsessed with his place in history. They said he hectored them about giving due credit. Unquestionably, in his years as a professional heretic he honed an appreciation for the tactics as well as the substance of scientific achievement. Sometimes when articles appeared using ideas from fractal geometry he would call or write the authors to complain that no reference was made to him or his book."
+  comment: "crazy academia"
+  location: "1620"
+- 
+  content: >
+    They also—particularly mathematicians—resented the way he moved in and out of different disciplines, making his claims and conjectures and leaving the real work of proving them to others."
+  comment: ""
+  location: "1635"
+- 
+  content: >
+    It was a legitimate question. If one scientist announces that a thing is probably true, and another demonstrates it with rigor, which one has done more to advance science? Is the making of a conjecture an act of discovery? Or is it just a cold-blooded staking of a claim?"
+  comment: ""
+  location: "1636"
+- 
+  content: >
+    “The politics affected the style in a sense which I later came to regret. I was saying, ‘It’s natural to…, It’s an interesting observation that….’ Now, in fact, it was anything but natural, and the interesting observation was in fact the result of very long investigations and search for proof and self-criticism. It had a philosophical and removed attitude which I felt was necessary to get it accepted. The politics was that, if I said I was proposing a radical departure, that would have been the end of the readers’ interest."
+  comment: ""
+  location: "1671"
+- 
+  content: >
+    Mathematics differs from physics and other applied sciences in this respect. A branch of physics, once it becomes obsolete or unproductive, tends to be forever part of the past. It may be a historical curiosity, perhaps the source of some inspiration to a modern scientist, but dead physics is usually dead for good reason. Mathematics, by contrast, is full of channels and byways that seem to lead nowhere in one era and become major areas of study in another. The potential application of a piece of pure thought can never be predicted. That is why mathematicians value work in an aesthetic way, seeking elegance and beauty as artists do. It is also why Mandelbrot, in his antiquarian mode, came across so much good mathematics that was ready to be dusted off. So"
+  comment: ""
+  location: "1680"
+- 
+  content: >
+    One mathematician told friends that he had awakened one night still shaking from a nightmare. In this dream, the mathematician was dead, and suddenly heard the unmistakable voice of God. “You know,” He remarked, “there really was something to that Mandelbrot.”"
+  comment: ""
+  location: "1702"
+- 
+  content: >
+    The early sense of self-similarity as an organizing principle came from the limitations on the human experience of scale. How else to imagine the very great and very small, the very fast and very slow, but as extensions of the known?"
+  comment: ""
+  location: "1709"
+- 
+  content: >
+    In the words of Gert Eilenberger, a German physicist who took up nonlinear science after specializing in superconductivity: “Why is it that the silhouette of a storm-bent leafless tree against an evening sky in winter is perceived as beautiful, but the corresponding silhouette of any multi-purpose university building is not, in spite of all efforts of the architect? The answer seems to me, even if somewhat speculative, to follow from the new insights into dynamical systems. Our feeling for beauty is inspired by the harmonious arrangement of order and disorder as it occurs in natural objects—in clouds, trees, mountain ranges, or snow crystals. The shapes of all these are dynamical processes jelled into physical forms, and particular combinations of order and disorder are typical for them.”"
+  comment: "specious. hilarious"
+  location: "1737"
+- 
+  content: >
+    To Mandelbrot, art that satisfies lacks scale,"
+  comment: ""
+  location: "1743"
+- 
+  content: >
+  comment: "fractals are stoner art"
+  location: "1743"
+- 
+  content: >
+    THEORISTS CONDUCT EXPERIMENTS with their brains. Experimenters have to use their hands, too. Theorists are thinkers, experimenters are craftsmen. The theorist needs no accomplice. The experimenter has to muster graduate students, cajole machinists, flatter lab assistants. The theorist operates in a pristine place free of noise, of vibration, of dirt. The experimenter develops an intimacy with matter as a sculptor does with clay, battling it, shaping it, and engaging it. The theorist invents his companions, as a naive Romeo imagined his ideal Juliet. The experimenter’s lovers sweat, complain, and fart."
+  comment: ""
+  location: "1832"
+- 
+  content: >
+    the light called “opalescence” because the soft scattering of rays gives the white glow of an opal."
+  comment: "naming of science. fractal too. i fascinatingly personal and unregulated"
+  location: "1863"
+- 
+  content: >
+    FLOW BETWEEN ROTATING CYLINDERS."
+  comment: ""
+  location: "1899"
+- 
+  content: >
+  comment: "looks like internet art"
+  location: "1899"
+- 
+  content: >
+    “Always nonspecialists find the new things,”"
+  comment: ""
+  location: "1949"
+- 
+  content: >
+    With characteristic diffidence, Lorenz made the occasion a social one, and they went with their wives to an art museum."
+  comment: ""
+  location: "2074"
+- 
+  content: >
+    He became more and more detached from his friends. Ordinary conversation could not hold his interest. Sometime in his last year of college, it struck him that he had missed his adolescence, and he made a deliberate project out of regaining touch with humanity. He would sit silently in the cafeteria, listening to students chatting about shaving or food, and gradually he relearned much of the science of talking to people."
+  comment: "freaky"
+  location: "2292"
+- 
+  content: >
+    he spent a fruitless four years at Cornell and at the Virginia Polytechnic Institute—fruitless, that is, in terms of the steady publication of work on manageable problems that is essential for a young university scientist. Postdocs were supposed to produce papers. Occasionally an advisor would ask Feigenbaum what had happened to some problem, and he would say, “Oh, I understood it.”"
+  comment: ""
+  location: "2296"
+- 
+  content: >
+    Given the vast amount of information available to your senses, how does your decoding apparatus sort it out? Clearly—or almost clearly—the brain does not own any direct copies of stuff in the world. There is no library of forms and ideas against which to compare the images of perception. Information is stored in a plastic way, allowing fantastic juxtapositions and leaps of imagination. Some chaos exists out there, and the brain seems to have more flexibility than classical physics in finding the order in it."
+  comment: ""
+  location: "2362"
+- 
+  content: >
+    Color is “a degree of darkness,” Goethe argued, “allied to shadow.”"
+  comment: ""
+  location: "2387"
+- 
+  content: >
+    In spirit, nothing could have been further removed from the complex calculations of standard physics. Instead of a labyrinthine scheme to be solved one time, this was a simple calculation performed over and over again."
+  comment: ""
+  location: "2415"
+- 
+  content: >
+    Each scientist had a private constellation of intellectual parents. Each had his own picture of the landscape of ideas, and each picture was limited in its own way. Knowledge was imperfect."
+  comment: ""
+  location: "2649"
+- 
+  content: >
+    LATER, FEIGENBAUM LIVED in a bare space, a bed in one room, a computer in another, and, in the third, three black electronic towers for playing his solidly Germanic record collection."
+  comment: ""
+  location: "2694"
+- 
+  content: >
+  comment: "lol"
+  location: "2695"
+- 
+  content: >
+        “The vigor of glory, a glittering in the veins,      As things emerged and moved and were dissolved,      Either in distance, change or nothingness,      The visible transformations of summer night,      An argentine abstraction approaching form      And suddenly denying itself away.”"
+  comment: ""
+  location: "2836"
+- 
+  content: >
+    the distinction between final cause and efficient or physical cause. Final cause is cause based on purpose or design: a wheel is round because that shape makes transportation possible. Physical cause is mechanical: the earth is round because gravity pulls a spinning fluid into a spheroid. The distinction is not always so obvious. A drinking glass is round because that is the most comfortable shape to hold or drink from. A drinking glass is round because that is the shape naturally assumed by spun pottery or blown glass."
+  comment: ""
+  location: "2900"
+- 
+  content: >
+    In a computer experiment data flowed like wine from a magic chalice. In a laboratory experiment you had to fight for every drop."
+  comment: "lyrical"
+  location: "3029"
+- 
+  content: >
+    Whenever a good physicist examines a simulation, he must wonder what bit of reality was left out, what potential surprise was sidestepped. Libchaber liked to say that he would not want to fly in a simulated airplane—he would wonder what had been missed. Furthermore, he would say that computer simulations help to build intuition or to refine calculations, but they do not give birth to genuine discovery. This, at any rate, is the experimenter’s creed."
+  comment: ""
+  location: "3036"
+- 
+  content: >
+    “You obtain an incredible variety of Julia sets: some are a fatty cloud, others are a skinny bush of brambles, some look like the sparks which float in the air after a firework has gone off. One has the shape of a rabbit, lots of them have sea-horse tails.”"
+  comment: "stunning"
+  location: "3158"
+- 
+  content: >
+    Rigor, yes, but not to the extent that I drop something just because I can’t do it now.”"
+  comment: ""
+  location: "3282"
+- 
+  content: >
+    In terms of Shannon’s information theory, ordinary language contains greater than fifty percent redundancy in the form of sounds or letters that are not strictly necessary to conveying a message."
+  comment: ""
+  location: "3632"
+- 
+  content: >
+    The statistical tendency of various two– and three-letter combinations to turn up in a language goes a long way toward capturing some characteristic essence of the language. A computer guided only by the relative likelihood of the possible sequences of three letters can produce an otherwise random stream of nonsense that is recognizably English nonsense."
+  comment: ""
+  location: "3641"
+- 
+  content: >
+  comment: "google scribe"
+  location: "3643"
+- 
+  content: >
+    Order intrudes in ways that defy any straightforward counting algorithm."
+  comment: ""
+  location: "3660"
+- 
+  content: >
+    “You don’t see something until you have the right metaphor to let you perceive it,” Shaw said, echoing Thomas S. Kuhn."
+  comment: ""
+  location: "3738"
+- 
+  content: >
+    Every so often, sitting in a coffeehouse or working in their laboratory, one or another of the students would have to fight back amazement that their scientific fantasy had not ended. God, we’re still doing this and it still makes sense, as Jim Crutchfield would say. We’re still here. How far is it going to go?"
+  comment: ""
+  location: "3818"
+- 
+  content: >
+    Fibrillation is a disorder of a complex system, just as mental disorders—whether or not they have chemical roots—are disorders of a complex system."
+  comment: ""
+  location: "4063"
+- 
+  content: >
+    Snowflakes are nonequilibrium phenomena, physicists like to say."
+  comment: ""
+  location: "4402"
+- 
+  content: >
+  comment: "lol"
+  location: "4402"
+  
+----
+
+Read: false
+
+----
+
+Authors: 
+
+----
+
+Publisher: 
+
+----
+
+Year: 
+
+----
+
+Category: book
+
+----
+
+Tags: 

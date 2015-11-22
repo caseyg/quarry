@@ -1,0 +1,1315 @@
+Autoid: 76a761c949a10a50d2b1c48a06645bb7
+
+----
+
+Title: Living With Complexity
+
+----
+
+Read: true
+
+----
+
+Authors: Donald Norman
+
+----
+
+Publisher: 
+
+----
+
+Year: 
+
+----
+
+Category: book
+
+----
+
+Tags: 
+
+----
+
+Highlights: 
+
+- 
+  content: >
+    Good design can help tame the
+    complexity, not by making things less
+    complex-for the complexity is
+    required-but by managing the complexity.
+    "
+  comment: ""
+  location: "46"
+- 
+  content: 'Understandability and understanding: two critical keys to mastery.'
+  comment: >
+    These are the terms to replace
+    "simplicity."
+  location: "49"
+- 
+  content: species clash,"
+  comment: ""
+  location: "64"
+- 
+  content: >
+    It is no great trick to take a simple
+    situation and devise a simple solution.
+    The real problem is that we truly need
+    to have complexity in our lives."
+  comment: ""
+  location: "91"
+- 
+  content: ""
+  comment: Minsky-like breakdown of operations
+  location: "95"
+- 
+  content: ""
+  comment: >
+    Maybe Norman is talking about the
+    general interface of calculators, but
+    this is a downright skeumorphic picture
+    of a calculator on a screen! Familiarity
+    is a huge factor. What about Soulver?
+  location: "105"
+- 
+  content: |
+    The flags flying in opposite directions reflect the invisible complexity of nature. Note that observing the flags does not lead to irritation or annoyance so much as amusement: \"Maybe we shouldn't go out today, or if we do, watch out for the wind.\" That is the way nature is: wind can sometimes move in mysterious, complex ways. "
+  comment: ""
+  location: "111"
+- 
+  content: >
+    people prefer a middle level of
+    complexity:"
+  comment: ""
+  location: "113"
+- 
+  content: ""
+  comment: >
+    The challenge is to design a peoduct
+    suitable for all levels of expertise,
+    because users vary in skill level and as
+    they use it their experience level
+    changes too.
+  location: "115"
+- 
+  content: ""
+  comment: Hell yes
+  location: "137"
+- 
+  content: ""
+  comment: Steep?
+  location: "143"
+- 
+  content: >
+    preparation of food is one case where,
+    in the trade-off between simplicity and
+    complexity, simplicity does not always
+    win. "
+  comment: ""
+  location: "149"
+- 
+  content: >
+    the perfect flavor with the least amount
+    of effort"
+  comment: ""
+  location: "151"
+- 
+  content: >
+    Rituals invariably add complexity to our
+    lives, but in turn, they provide meaning
+    and a sense of membership in a culture."
+  comment: ""
+  location: "160"
+- 
+  content: ""
+  comment: Great name for a chapter
+  location: "168"
+- 
+  content: >
+    Society has adapted to many arbitrarily
+    complex systems so well that adults
+    scarcely pay any attention to their
+    complexities and difficulties, for they
+    have forgotten the long period of study
+    required to master them."
+  comment: ""
+  location: "174"
+- 
+  content: ""
+  comment: >
+    Interesting connection between
+    collaborative work and the introduction
+    of factory time.
+  location: "179"
+- 
+  content: ""
+  comment: "Lingering of vestigial systems creates bad complexity. Rand-ian impulse to destroy mutated design so it won't contribute to the shit pile."
+  location: "183"
+- 
+  content: ""
+  comment: Lojban, a less ambiguous language.
+  location: "188"
+- 
+  content: >
+    adults forget how difficult that task
+    was."
+  comment: >
+    Minsky Goes to great lengths to point
+    this out with building blocks.
+  location: "194"
+- 
+  content: ""
+  comment: >
+    Decryption of codes is important,
+    reverse URL shorteners. Indpendent,
+    repeatable logic is better than a
+    Rosetta Stone.
+  location: "202"
+- 
+  content: ""
+  comment: Argument for external memories?
+  location: "216"
+- 
+  content: ""
+  comment: Ha! Tell me about it...
+  location: "229"
+- 
+  content: 'Could we ever switch to this or any of the many other rational systems? Unlikely: tradition is difficult to overcome.'
+  comment: Jaron Lanier thinks so, but over decades
+  location: "236"
+- 
+  content: ""
+  comment: Ergonomics of Japanese vs. German knifes
+  location: "239"
+- 
+  content: ""
+  comment: >
+    Technique vs touch. Working with a
+    trainer at the gym/teaching yourself
+    more efficient ways to learn as secret
+    to success.
+  location: "252"
+- 
+  content: ""
+  comment: |
+    Or in Lanier's terms, developing "acuity"? Both a mark of complexity in a tool and a sign of expertise in the user.
+  location: "266"
+- 
+  content: ""
+  comment: "Another example of unexpected, brilliant bridging: Ideo's ATM which animates cash on screen off the edge into real cash. "
+  location: "270"
+- 
+  content: Bruce Sterling,"
+  comment: ""
+  location: "273"
+- 
+  content: files and folders are fictions."
+  comment: ""
+  location: "288"
+- 
+  content: ""
+  comment: aka metaphor
+  location: "301"
+- 
+  content: ""
+  comment: Metaphors!
+  location: "313"
+- 
+  content: >
+    the mysterious rules and regulation of
+    bureaucracy,"
+  comment: ""
+  location: "316"
+- 
+  content: ""
+  comment: >
+    Are these just conceptual models too?
+    The matrix!!
+  location: "320"
+- 
+  content: ""
+  comment: See Minsky on cars.
+  location: "321"
+- 
+  content: |
+    What makes something simple or complex? It's not the number of dials or controls or how many features it has: It is whether the person using the device has a good conceptual model of how it operates. "
+  comment: >
+    A device with no knobs can be very
+    complex! Good point.
+  location: "325"
+- 
+  content: ""
+  comment: Acuity
+  location: "344"
+- 
+  content: >
+    When we compare the complex array of
+    tools that skilled craftspeople select
+    for their tasks, we see that the real
+    complexity does not lie in the tools,
+    but in the task."
+  comment: ""
+  location: "359"
+- 
+  content: ""
+  comment: >
+    Dveloping a workflow. Designing
+    documentation. The importance of
+    teaching users.
+  location: "361"
+- 
+  content: context"
+  comment: ""
+  location: "369"
+- 
+  content: 'the paradox of the quest for simplicity: to make our lives easier, we need more powerful, more complex tools.'
+  comment: ""
+  location: "369"
+- 
+  content: >
+    Every application has an inherent amount
+    of irreducible complexity. The only
+    question is who will have to deal with
+    it, the user or the developer
+    (programmer or engineer). (Tesler and
+    Saffer 2007) "
+  comment: ""
+  location: "375"
+- 
+  content: ""
+  comment: Minimalism can be opaque.
+  location: "385"
+- 
+  content: ""
+  comment: |
+    Software can evolve along with a user, e.g. the concept of "on boarding." What's magical about Apple's mouse today (one physical and visual button with invisible but highly functional right click and center scroll) is that they were able to create hardware that effectively grows with the user's expertise.
+  location: "395"
+- 
+  content: >
+    learning would be enhanced with the
+    separate locations, even if usability is
+    somewhat impaired."
+  comment: ""
+  location: "400"
+- 
+  content: >
+    the use of a single button was an
+    important branding symbol for Apple"
+  comment: ""
+  location: "404"
+- 
+  content: >
+    Simplicity by itself is not necessarily
+    virtuous."
+  comment: ""
+  location: "407"
+- 
+  content: >
+    Complexity can be tamed through proper
+    design. Why the cry for simplicity? It
+    is an honest reaction to the confusion
+    and complications of life; but although
+    the intention is admirable, the proposed
+    solution is mistaken. "
+  comment: ""
+  location: "418"
+- 
+  content: ""
+  comment: Syllogism alert!
+  location: "428"
+- 
+  content: usability does not require simplicity. "
+  comment: ""
+  location: "430"
+- 
+  content: 'simplicity is not the opposite of complexity: complexity is a fact of the world, whereas simplicity is in the mind. The trade-off assumes two things: first, that simplicity is the goal; second, that one must give up something in order to gain the desired simplicity.'
+  comment: ""
+  location: "434"
+- 
+  content: |
+    The design challenge is to manage complexity so that it isn't complicated. "
+  comment: ""
+  location: "438"
+- 
+  content: complexity indicates status.\" "
+  comment: ""
+  location: "444"
+- 
+  content: 'Why all the buttons and controls on steering wheels and rearview mirrors? Because these are the features that people believe they want. They make a difference at the time of sale, which is when such features matter most. Why do we deliberately build things that confuse the people who use them? Answer: because the people want the features. Because the so-called demand for simplicity is a myth whose time has passed, if it ever existed.'
+  comment: ""
+  location: "452"
+- 
+  content: ""
+  comment: >
+    This paragraph makes me die inside a
+    little. Must. Remember. The normals.
+  location: "467"
+- 
+  content: ""
+  comment: >
+    This assumption is being proven wrong by
+    the 37signals / hipster designer crowd
+    but I guess they are not the majority to
+    which Norman speaks. Willing to get the
+    simple coffee maker and associated tools
+    that requires technique.
+  location: "472"
+- 
+  content: >
+    Taming technology is a psychological
+    task, not a physical one. "
+  comment: ""
+  location: "490"
+- 
+  content: 'Any time you see signs or labels added to a device, it is an indication of bad design: a simple lock should not require instructions."'
+  comment: "What about educating people in advance or over the years? We don't just intuitively know how to use anything complex, there is a discovery/learning period and perhaps even a cultural heredity of this knowledge."
+  location: "501"
+- 
+  content: ""
+  comment: >
+    Unless a device can be used in many
+    different ways. e.g. reminder about
+    water temp for simple coffee filter
+  location: "503"
+- 
+  content: ""
+  comment: Awkward.
+  location: "519"
+- 
+  content: ""
+  comment: |
+    I keep coming back to the idea of reversible logic that is hard to understand unless you created it. For example, using the same password for every site but alternating every other letter with the name of the specific site.
+    
+    e.g. password + google = pgaososgwloerd
+    
+    Slightly more complicated for the user but relatively secure. You would need two passwords to ascertain the pattern.
+  location: "526"
+- 
+  content: ""
+  comment: Mimetic.
+  location: "529"
+- 
+  content: |
+    The secret to coping is to take charge: stick up little reminders, warnings, pictures. Put reminders where you can find them when needed: lines, marks, sticky labels, and instructions. This dramatically simplifies what must be remembered, making it unnecessary to remember
+    the idiosyncrasies of each case."
+  comment: ""
+  location: "543"
+- 
+  content: ""
+  comment: 'Improvements, yes, but marginal ones. The last 10%. rule of diminishing returns. Risk of over design.'
+  location: "550"
+- 
+  content: >
+    Something that works well with only a
+    few cases often fails as the number
+    grows. "
+  comment: ""
+  location: "563"
+- 
+  content: ""
+  comment: >
+    Dangerous argument, though appealing.
+    Straw man!
+  location: "568"
+- 
+  content: >
+    old signs tend to remain in place way
+    past their prime."
+  comment: "Forgetting / expiration dates for information. Computers make this easier in some ways but also more ambiguous. How much information online has a proper timecode/context for understanding it's relevance. This is why old books have contextualizing introductions. See re-thinking history. Also the thought of Onkalo, the nuclear facility that must communicate danger for 100,000 years. The signs may not last physically and in terms of shifting meanings over time. Each generation must update the warning for ensured longevity."
+  location: "572"
+- 
+  content: |
+    I may simply wish to know if there is heavy traffic along one small stretch of highway: a simple question with a simple answer. Unfortunately, in a large city, the announcer has to attempt to cover everyone's need for similar information on their particular roads. As a result, traffic reports on the radio often consist of several minutes of rapid nonstop talking, with the announcer reciting the traffic status of multiple locations, using place names that only the most knowledgeable local citizens are familiar with, describing inbound and outbound traffic-and the experience is so overwhelming that you are apt to miss the description of the traffic you care about. "
+  comment: >
+    Good example of too general broadcast
+    technology leading to a bad experience.
+  location: "600"
+- 
+  content: technology misuse."
+  comment: ""
+  location: "611"
+- 
+  content: |
+    I've listened to many hours of instructions by air traffic controllers to pilots, and to my unskilled ears, they remind me of the weather forecasts and traffic advisories. The differences are that the air traffic controllers speak with a standardized technical language, with special signals to indicate to whom the particular message is directed. Thus, although the controller may issue a long barrage of instructions to several of the airplanes being supervised, each instruction is preceded by the flight number or other identifying name of the recipient. As a result, pilots do not have to listen to everything: they simply \"word spot,\" listening just carefully enough to detect when the name of their flight is called out. Once they hear their flight number, they can switch their attentive state from the secondary task of monitoring to the primary task of full concentration on the following message."
+  comment: >
+    On standardized language of air traffic
+    controllers vs. flowery language
+    weathermen use so as not to bore the TV
+    audience. Weather on TV conflates
+    entertainment and efficiency of
+    information in a fascinating way.
+  location: "617"
+- 
+  content: |
+    I shouldn't have to be an expert to understand the weather forecast or the traffic update. The experts who give this information know too much. They have great difficulty understanding the problems faced by beginners. "
+  comment: ""
+  location: "624"
+- 
+  content: |
+    Silhouette, field marks, posture, size, flight pattern, and habitat-those are what the experts claim are the critical features: then why aren't the books organized that way? In this particular case, the complexity comes from the technological limitations of paper books: the rigidity of the bound pages forces the book to have a single, fixed structure. "
+  comment: Facets!
+  location: "631"
+- 
+  content: ""
+  comment: >
+    Semantic web trying to solve the problem
+    of visualizing this?
+  location: "639"
+- 
+  content: >
+    the electronic guides, even if difficult
+    to explain, are easiest to use. For the
+    expert, the fixed structure is superior.
+    "
+  comment: ""
+  location: "640"
+- 
+  content: ""
+  comment: Hilarious.
+  location: "648"
+- 
+  content: |
+    forcing function: the correct behavior
+    is the only possibility."
+  comment: ""
+  location: "671"
+- 
+  content: ""
+  comment: Whose assumption?
+  location: "673"
+- 
+  content: 'Crowds, society, other people have a lot of wisdom, which they share sometimes explicitly, as when they answer questions or post messages, sometimes implicitly, as when the impact of their activities creates signals that can be interpreted: footsteps in the snow, crowds at a restaurant, even just wear and tear.'
+  comment: ""
+  location: "709"
+- 
+  content: ""
+  comment: Also mentioned in Glut.
+  location: "718"
+- 
+  content: ""
+  comment: >
+    Interesting navigational supplement to
+    the fact that data is by default immune
+    to wear and tear. Interesting to think
+    about wear and tear as a form of applied
+    usage analytics/statistics.
+  location: "728"
+- 
+  content: |
+    A good designer thinks about these things and provides clues-signifiers-as to appropriate use. This requires a special talent: empathy. Designers must place themselves in the position of those who use their designs, and then provide the information required for proper usage, but without destroying the aesthetic beauty or the functions, or increasing the cost. That's the design challenge: managing the tensions."
+  comment: "Reminds me of Otl Aicher's writings. Navigating a conflict field. Very pragmatic approach."
+  location: "736"
+- 
+  content: ""
+  comment: Guilty as charged.
+  location: "740"
+- 
+  content: >
+    Rules are useful, except when they are
+    not followed. "
+  comment: ""
+  location: "746"
+- 
+  content: >
+    good design can make the entire problem
+    disappear."
+  comment: ""
+  location: "750"
+- 
+  content: ""
+  comment: >
+    This would be an amusing topic for a
+    design book.
+  location: "763"
+- 
+  content: \"semiotics\""
+  comment: ""
+  location: "766"
+- 
+  content: ""
+  comment: >
+    Ha! Handicapping behavior. Like roaring
+    at a hungry bear.
+  location: "772"
+- 
+  content: ""
+  comment: >
+    Intention is irrelevant in design for
+    communication.
+  location: "775"
+- 
+  content: >
+    Social signifiers, moreover, are highly
+    responsive to levels of authority."
+  comment: ""
+  location: "800"
+- 
+  content: >
+    Machines certainly do act stupidly, but
+    then again, they are simply machines.
+    Why would we expect otherwise? Even
+    \"intelligent\" machines are not very
+    smart by human standards. Machines have
+    no way of understanding the actual
+    situation, or the context. They can only
+    deal with events their designers have
+    considered, which means they cannot deal
+    with the unexpected. But unexpected
+    events should be expected to occur."
+  comment: ""
+  location: "851"
+- 
+  content: ""
+  comment: Defensive design
+  location: "869"
+- 
+  content: ""
+  comment: Cars that listen for noises of breakage.
+  location: "871"
+- 
+  content: |
+    \"If only we didn't have all these people around,\" I have heard engineers tell one another, \"our machines would work just fine.\""
+  comment: ""
+  location: "873"
+- 
+  content: ""
+  comment: My kind of collection!
+  location: "890"
+- 
+  content: ""
+  comment: >
+    Turing prize. Most human machine and
+    most human human. Or does Norman speak
+    of a separate humanist ethics.
+  location: "902"
+- 
+  content: ""
+  comment: 'Origins of Reticulating Splines:'
+  location: "914"
+- 
+  content: ""
+  comment: "Why it's not personal."
+  location: "924"
+- 
+  content: >
+    A sociable design would support the
+    high-level activity as well as the
+    lower-level tasks. "
+  comment: ""
+  location: "935"
+- 
+  content: ""
+  comment: >
+    Not many things do this! Blinking cursor
+    in word processors.
+  location: "953"
+- 
+  content: ""
+  comment: >
+    Dwell manifesto, though it has become a
+    joke.
+  location: "961"
+- 
+  content: >
+    I have been a juror in several design
+    contests where all the creative designs
+    were shown in pristine environments. No
+    wires or plugs, no people, no
+    surrounding activity. I tried to get the
+    rules changed so that in the future, all
+    exhibits had to show the device in use,
+    with all the necessary supporting
+    structure, including power cords,
+    speaker cables, networking
+    connections-everything. My fellow jurors
+    listened patiently, smiling tolerantly;
+    no changes were made. "
+  comment: ""
+  location: "961"
+- 
+  content: ""
+  comment: >
+    Integrity of the object. A very IKEA
+    approach. Always surprised by facades.
+  location: "964"
+- 
+  content: >
+    When a desire line destroys the pristine
+    plan, it is a sign that the design did
+    not meet human needs. "
+  comment: ""
+  location: "980"
+- 
+  content: ""
+  comment: >
+    Failure is in the process. Embedded
+    architects. Hejduk vs. Mayne.
+  location: "986"
+- 
+  content: ""
+  comment: >
+    Design for change. Movable walls article
+    from Metropolis Mag. Or just do your
+    research.
+  location: "988"
+- 
+  content: ""
+  comment: "Isn't there a difference between a trail and a sidewalk? Do all desire lines, as Norman writes, truly cry out for architectural formalization? I think not!"
+  location: "988"
+- 
+  content: ""
+  comment: "I bet that actualizing desire lines would lead people to create new, different desire lines. Here Norman's counterpoint still assumes one perfect solution."
+  location: "994"
+- 
+  content: ""
+  comment: |
+    Design is too often finished when it should continually evolve. I've often dreamt of designing a house "backwards" so that where I put my keys emerges a proper receptacle. It would be a push and pull, because every change means an adjustment to the user's response to the environment.
+  location: "1000"
+- 
+  content: 'laziness is actually a fundamental law of physics, where it is called the "minimization of energy" principle. All physical systems prefer states that minimize energy consumption: people are no different."'
+  comment: ""
+  location: "1006"
+- 
+  content: ""
+  comment: >
+    Norman is jaw-grindingly pragmatic.
+    There is no sense of aspiration for
+    design of spaces here, only adaptation
+    to perceived human needs and desires.
+    Somewhat reminiscent of The Filter
+    Bubble. We must consider the (vast)
+    implications of a perfectly form-fitting
+    environment!
+  location: "1008"
+- 
+  content: ""
+  comment: >
+    Not all architectural conceits work (for
+    example Morphosis creating a giant
+    staircase nobody uses and terrible
+    elevators, or when architects stop being
+    humble and decide that their building
+    can bring together artists and
+    engineers), space is only a small part
+    of the job...I am skeptical of Norman
+    owning the terms human-centric and
+    sociable for his specific type of
+    design. Good words though.
+  location: "1010"
+- 
+  content: >
+    design systems that support their
+    desires. "
+  comment: ""
+  location: "1015"
+- 
+  content: |
+    Sometimes, however, design is meant to provoke. This is where it is an artistic work, intentionally created to stimulate speculation and discussion, perhaps to provoke debate. In this case, people's complaints are perhaps best ignored."
+  comment: ""
+  location: "1015"
+- 
+  content: ""
+  comment: 'A surprisingly clear definition: design supports human desires, art provokes humans into starting conversation. Cogent, but real life seems much less clear cut. Art vs. design debate, heeeere we go...'
+  location: "1018"
+- 
+  content: ""
+  comment: These are a few of my favorite things.
+  location: "1023"
+- 
+  content: ""
+  comment: >
+    Even pulling in related information
+    traces, e.g. current weather, or
+    concatenating with different databases
+    like magazine subscriptions and health
+    records.
+  location: "1029"
+- 
+  content: ""
+  comment: '!'
+  location: "1035"
+- 
+  content: ""
+  comment: >
+    Long history of excuses for the failures
+    of semantic web pioneers...
+  location: "1036"
+- 
+  content: ""
+  comment: >
+    Norman, of course, likes this as part of
+    his earlier stated belief that it is
+    things which make us smart.
+  location: "1038"
+- 
+  content: ""
+  comment: "Interesting to note that Bush limits the scope of his trails to within an Encyclopedia. It's terribly ambitious and possibly flawed to extend this concept to EVERYTHING."
+  location: "1039"
+- 
+  content: ""
+  comment: "Highly intelligent, yet similar in conceit to Shirky's ideas about tag aggregation in Ontology is Overrated."
+  location: "1040"
+- 
+  content: ""
+  comment: |
+    Idea of online "curation." See also, Assange's use of the term "plasticine scaffolding."
+  location: "1047"
+- 
+  content: ""
+  comment: >
+    Look up his project again. The reference
+    library by mail, right?
+  location: "1048"
+- 
+  content: ""
+  comment: |
+    Kiiiind of like following people on Twitter. Would be confusing if the people were not available, in some capacity, for clarification. Thus, the dominance of social media. Twitter as a kind of associate trail layer over the web. You follow people! That is why subscribing to facets of a person, as suggested to me by someone, is a dangerous idea.
+    
+    There is a difference in clarity between private annotations and those meant to be shared. Doubt that the public could follow my private scribbles. That's why social is important. Answers the question of for whom we are leaving these trails.
+    
+    Celebrities who don't follow anybody, only broadcast, don't get it. It's a magic mirror and you treat it like a regular one.
+  location: "1052"
+- 
+  content: >
+    After all, this particular path took me
+    almost two months, with a lot of false
+    movements and floundering. In many
+    cases, it would be best to follow not
+    the path but only the summary of that
+    journey. "
+  comment: SOCIAL MEDIA!!!
+  location: "1058"
+- 
+  content: ""
+  comment: "Assange on accountability. Jenkins on meta data/context for interpreting history as a history of historians' minds. Take everything with a grain of salt, since none of it is vetted for bias."
+  location: "1062"
+- 
+  content: ""
+  comment: >
+    Need to re-find that site that links
+    various entities from political news
+    articles. Is there a good automated
+    citation browser out there?
+  location: "1067"
+- 
+  content: ""
+  comment: 'Personal metrics: for good and evil...'
+  location: "1070"
+- 
+  content: ""
+  comment: >
+    Which reviewers do this? Bad ones??
+    Cite.
+  location: "1080"
+- 
+  content: ""
+  comment: 'Study showing friends IRL are based on proximity > interest. Would be interesting to compare usage of the trails of the two groups. I confirm to my roommates music taste, start following his trail. Perfect similarity is circular.'
+  location: "1086"
+- 
+  content: ""
+  comment: >
+    Even the same devices and systems,
+    covertly, as Adam Greenfield notes.
+  location: "1091"
+- 
+  content: ""
+  comment: 'False dichotomy. Ideally I would like these systems to neither simplify nor complicate but *complexity* my life.'
+  location: "1092"
+- 
+  content: >
+    less opportunity provides more focus and
+    depth. "
+  comment: ""
+  location: "1103"
+- 
+  content: >
+    Group understanding is often more
+    powerful and robust than individual
+    understanding. "
+  comment: ""
+  location: "1105"
+- 
+  content: ""
+  comment: >
+    Apple computers came with a game to
+    teach you how to use a mouse.
+  location: "1114"
+- 
+  content: >
+    Often the only difference between a
+    service and a product is point of view.
+    In some sense, every product provides a
+    service to its user."
+  comment: ""
+  location: "1124"
+- 
+  content: |
+    The distinction between front- and backstage components of a service implies a neat separation, but this is misleading. Everything has a front and back, so each of the backstage components
+    has its own front and back. Part of the bank that is backstage to the customer is frontstage to the clerk, and what is backstage to one clerk is frontstage to yet other clerks, who in turn have their own front- and backstages.
+  comment: ""
+  location: "1136"
+- 
+  content: >
+    Even if everyone is helpful and
+    friendly, the sheer complexity of the
+    operation coupled with the relatively
+    poor interfaces among all the components
+    can lead to frustrating experiences. "
+  comment: ""
+  location: "1155"
+- 
+  content: ""
+  comment: >
+    Vertical integration. Steve Jobs has
+    been quoted about this approach.
+  location: "1157"
+- 
+  content: >
+    Never solve the problem the client has
+    asked you to solve. Why? Because the
+    client is usually responding to the
+    symptoms."
+  comment: ""
+  location: "1162"
+- 
+  content: ""
+  comment: >
+    The trains have to work first, though,
+    before the design can truly elevate the
+    experience.
+  location: "1175"
+- 
+  content: ""
+  comment: |
+    This seamlessness has been the secret to a lot of Aple's successful moments, "it just works!" but recently we have also come to see the danger of walled gardens which make integration like this possible.
+  location: "1187"
+- 
+  content: System thinking:"
+  comment: ""
+  location: "1214"
+- 
+  content: ""
+  comment: >
+    Square is a shining example of making
+    something dull into something
+    human-centered and sociable.
+  location: "1219"
+- 
+  content: ""
+  comment: Insane status bar,
+  location: "1229"
+- 
+  content: |
+    \"If you go to a good hotel and ask for something, you get it.... If you go to a great hotel, you don't even have to ask.\" The Ritz-Carlton Hotel chain's philosophy-they want to be great hotels. "
+  comment: ""
+  location: "1239"
+- 
+  content: ""
+  comment: Wow.
+  location: "1252"
+- 
+  content: ""
+  comment: "See Adam Greenfield's critique of Taxi TVs."
+  location: "1308"
+- 
+  content: >
+    Measurement has been a powerful tool for
+    improving efficiency, but it is wise not
+    to let the power of measurement override
+    analysis of the important issues. When
+    it comes to people, not everything we
+    believe to be important can yet be
+    measured. On the other hand, much that
+    we know is unimportant is easy to
+    measure."
+  comment: ""
+  location: "1348"
+- 
+  content: >
+    Different hospitals might have different
+    laboratories, so their results would be
+    organized differently. But the attending
+    and resident physicians and nurses were
+    experts at piecing together a mental
+    model of the state of the patient from
+    all these numbers. "
+  comment: >
+    Kottke(?) on how we are becoming
+    increasingly proficient at understanding
+    reverse-chronological streams.
+  location: "1368"
+- 
+  content: total experience"
+  comment: ""
+  location: "1398"
+- 
+  content: expectations:"
+  comment: ""
+  location: "1399"
+- 
+  content: |
+    Services don't have the glamour of products. In many cases, there is nothing to see. Service design is about procedures-which means they have to be analyzed in action. Less money is invested in the study of services than in products, even though many companies succeed or fail on the quality of their services."
+  comment: ""
+  location: "1409"
+- 
+  content: >
+    there are few studies of the human side
+    of service design. Most studies of
+    services have focused on operational
+    efficiency and, in particular, on
+    mathematical modeling to optimize the
+    expenses of dealing with the expected
+    customer load. As a result, the
+    experience side of service lacks design
+    principles for either those being served
+    or the staff who do the serving. "
+  comment: ""
+  location: "1420"
+- 
+  content: >
+    In the rush for modernization and
+    productivity, we have tended to overlook
+    the value of the human experience."
+  comment: ""
+  location: "1423"
+- 
+  content: >
+    Waits are side effects of complex
+    systems. "
+  comment: ""
+  location: "1430"
+- 
+  content: 'Waits are everywhere, once you start looking for them: books on a bookshelf, food in the pantry, and any items that are stockpiled. There is an entire science that deals with methods for handling queues, buffers, and inventory. The management concept known as "lean manufacturing" is specifically designed to minimize the amount of stock and inventory being held.'
+  comment: ""
+  location: "1436"
+- 
+  content: >
+    Six Design Principles for Waiting Lines
+    1. Provide a conceptual model. 2. Make
+    the wait seem appropriate. 3. Meet or
+    exceed expectations. 4. Keep people
+    occupied. 5. Be fair. 6. End strong,
+    start strong. "
+  comment: ""
+  location: "1450"
+- 
+  content: 'Uncertainty is a prime cause of emotional irritation: a good model coupled with proper feedback removes this source of anxiety."'
+  comment: ""
+  location: "1456"
+- 
+  content: ""
+  comment: |
+    How Grandpa's urologist begins a phone call: "Good News, this is Dr. So-and-So..."
+  location: "1461"
+- 
+  content: >
+    There are also operational and legal
+    reasons for withholding information,
+    including simple overload on the part of
+    the hospital staff. But a major reason
+    is lack of thought and appropriate
+    design."
+  comment: 'On withholding:'
+  location: "1462"
+- 
+  content: enhance these periods of uncertainty"
+  comment: ""
+  location: "1465"
+- 
+  content: >
+    We note and remember when people in
+    other lines start moving faster than the
+    line we are in; we tend not to notice
+    when our line moves quickly ahead of the
+    others. It is this asymmetry that leads
+    to the perception of unfair lines."
+  comment: ""
+  location: "1506"
+- 
+  content: >
+    both systems may take equally long, but
+    in the Asian method there is a continual
+    feeling of progress. "
+  comment: Crowding vs. Orderly queueing.
+  location: "1521"
+- 
+  content: ""
+  comment: Insane.
+  location: "1545"
+- 
+  content: >
+    It would be a mistake, however, to
+    assume that ... innovations have an
+    identical, homogenizing effect wherever
+    they appear.... It remains difficult to
+    argue that the globalization of
+    technologies is making the world
+    everywhere the same. The \"sameness\"
+    hypothesis is only sustainable if one
+    ignores the internal meanings that
+    people assign to cultural innovations. "
+  comment: ""
+  location: "1547"
+- 
+  content: ""
+  comment: "Trader Joe's, but they also sometimes have an <10 line, which doesn't really conflict with perceived fairness."
+  location: "1598"
+- 
+  content: >
+    The memory of an event can be more
+    important than the actual event. "
+  comment: ""
+  location: "1642"
+- 
+  content: ""
+  comment: >
+    What else could these strategies be
+    applied to?
+  location: "1649"
+- 
+  content: Waits can be used to enhance pleasure."
+  comment: ""
+  location: "1657"
+- 
+  content: >
+    There are even times when waits are too
+    short, when we are forced to respond
+    before we are ready, or when we did not
+    have enough time to finish the
+    intervening activity. "
+  comment: ""
+  location: "1661"
+- 
+  content: >
+    It is rumored that waiting for elevators
+    has been made more pleasant by adding
+    full-length mirrors near-by, so people
+    can examine themselves while waiting."
+  comment: ""
+  location: "1663"
+- 
+  content: \"cognitive dissonance,\""
+  comment: ""
+  location: "1676"
+- 
+  content: ""
+  comment: Failure of surveys
+  location: "1691"
+- 
+  content: >
+    Informed, intelligent feedback is as
+    important to the staff as it is to the
+    customers. "
+  comment: ""
+  location: "1707"
+- 
+  content: 'In Emotional Design I summarized much of the research with the statement: "Attractive things work better.""'
+  comment: ""
+  location: "1708"
+- 
+  content: >
+    I have been told that \"Disney employees
+    are taught to pay special attention to
+    customers who are most upset, both
+    because they are unhappy, and
+    especially, because negative emotions
+    can spread, an observation very
+    consistent with the vast research on
+    emotional contagion.\" "
+  comment: ""
+  location: "1725"
+- 
+  content: >
+    The backstage operations of many
+    companies can be interesting to
+    customers. Why not let the waiting
+    people see what is happening?
+    Coffeehouses do this by letting
+    customers watch the baristas."
+  comment: ""
+  location: "1738"
+- 
+  content: ""
+  comment: YESSS! Though maybe fake...
+  location: "1741"
+- 
+  content: >
+    to start the engine of a modern car you
+    do just two things, turn a key and touch
+    the starter. Everything else is
+    automatic. The process used to be more
+    complicated. It required not only a good
+    memory, a strong man, an angelic temper,
+    and a blind hope, but also a certain
+    amount of practice of magic, so that a
+    man about to turn the crank of a Model T
+    might be seen to spit on the ground and
+    whisper a spell. (Steinbeck 1952) "
+  comment: ""
+  location: "1768"
+- 
+  content: 'Even simple tools take time to master: the lowly screwdriver, wrench, hammer, potato peeler, or the pencil are all as simple as can be imagined, but all take practice before they are mastered. Taming complexity is a partnership between those who design and those who use.'
+  comment: ""
+  location: "1775"
+- 
+  content: |
+    One of my fundamental design rules is to avoid error messages. After all, the natural world manages quite well without error messages. To me, good design means never having to say \"that was wrong.\" An error message really indicates that the system itself is confused: it doesn't know how to proceed. It is the system that needs to be scolded, not the person. "
+  comment: ""
+  location: "1799"
+- 
+  content: |
+    The best time to learn something is just after the person has discovered it is needed. That's when the demonstrations, tutorials, and explanations are most valuable. Try to teach too soon and the result is boredom and disinterest. But catch people just as they need the material, and they are apt to be highly motivated, attentive learners. "
+  comment: ""
+  location: "1811"
+- 
+  content: >
+    the designer is primarily concerned with
+    perceived affordances; the perception is
+    critical. As a result, when designers
+    correctly observed that some people were
+    having difficulty using a product
+    because they failed to notice the
+    affordance, they would add visible signs
+    of its existence. But, lacking the
+    appropriate vocabulary to describe what
+    they had done, they would say that they
+    had \"put an affordance on a product\"
+    when in fact they were making visible
+    the presence of an already existing
+    affordance. What they really were doing
+    was adding a signifier. The designers
+    had no choice; no other word existed to
+    describe what they had done (the word
+    \"signifier\" had not yet been
+    introduced), so with time, the term
+    \"affordance\" in design has come to
+    mean something perceptible. "
+  comment: ""
+  location: "1824"
+- 
+  content: >
+    The secret to success in taming the
+    complexity of the VCR was not through
+    clever, sophisticated user interface
+    design, but rather in recognizing that
+    the problem had been approached from the
+    wrong point of view. People wanted to
+    record a show to watch at another time;
+    they had no interest in when the show
+    was actually broadcast. Why should they
+    have to set the day or the time or the
+    channel? "
+  comment: ""
+  location: "1847"
+- 
+  content: 'All congenial methods work in this way: change the task into one that fits human cognitive structures and the difficulty is reduced."'
+  comment: ""
+  location: "1891"
+- 
+  content: ""
+  comment: >
+    Designing automation also leads to
+    efficiency in the designer if they were
+    to do it manually. The thought process
+    requires refactoring.
+  location: "1899"
+- 
+  content: \"negative signifiers.\""
+  comment: ""
+  location: "1911"
+- 
+  content: ""
+  comment: >
+    See Bias in Computer Systems by Helen
+    Nissenbaum
+  location: "1928"
+- 
+  content: >
+    People learn by doing. Telling people
+    what to do is not nearly as effective as
+    coaching them as they do it."
+  comment: ""
+  location: "1951"
+- 
+  content: >
+    The best people to help design a product
+    so that it does not need a manual are
+    the technical writers who today write
+    the manuals. They know the difficulties
+    people face. They understand how
+    difficult it is to explain the products.
+    They can help design products that are
+    easy to explain, if not
+    self-explanatory. "
+  comment: ""
+  location: "1960"
+- 
+  content: >
+    people often have trouble remembering
+    precisely the point at which the task
+    should be resumed. Checklists solve this
+    problem by containing an explicit list
+    of what has been done, what remains to
+    be done. "
+  comment: ""
+  location: "2001"
+- 
+  content: >
+    Even the most well-intentioned
+    salespeople can fall into the trap of
+    falling in love with the features and
+    capabilities of the most advanced
+    products rather than focusing on the
+    needs of the customer in front of them.
+    "
+  comment: And designers.
+  location: "2048"
+- 
+  content: ""
+  comment: Decibel level in WaPo dining reviews.
+  location: "2065"
+- 
+  content: >
+    The human brain and capabilities of
+    infants change extremely slowly
+    generation after generation. Technology,
+    society, and culture change far more
+    rapidly-technology changing the fastest,
+    culture the slowest."
+  comment: ""
+  location: "2070"
+- 
+  content: ""
+  comment: "He says this like it's a bad thing. A disruption free, clean cut world sounds inhuman."
+  location: "2078"
+- 
+  content: ""
+  comment: >
+    Designing for groups. Great passage.
+    Great thought.
+  location: "2087"
+- 
+  content: >
+    All want access to our records and our
+    lives. Our records are not secure, our
+    means of identifying ourselves are
+    laughably impoverished, and the
+    distinctions between security,
+    identification, and authentication are
+    poorly understood, even by those
+    implementing the systems that control
+    our lives."
+  comment: ""
+  location: "2106"
+- 
+  content: ""
+  comment: >
+    Not aspirational. Taking an everyday
+    approach. What about designing a complex
+    system for yourself? When I imagine that
+    do I think of confusing or complex? What
+    do the two look like. Confusion looks
+    busy. What does it feel like to sit with
+    complexity...
+  location: "2130"
