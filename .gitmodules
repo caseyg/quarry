@@ -4,3 +4,6 @@
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
+[submodule "site/plugins/autoid"]
+	path = site/plugins/autoid
+	url = https://github.com/helllicht/kirby-autoid.git
